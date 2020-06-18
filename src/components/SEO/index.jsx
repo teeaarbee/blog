@@ -17,7 +17,7 @@ const query = graphql`
         datePublished
         copyrightYear
         twitterUsername
-        fbAppId
+        // fbAppId
       }
     }
   }
@@ -39,7 +39,7 @@ const SEO = ({ title, description, image, path, articleDate }) => (
           datePublished,
           copyrightYear,
           twitterUsername,
-          fbAppId,
+          // fbAppId,
         },
       },
     }) => {
@@ -169,7 +169,7 @@ const SEO = ({ title, description, image, path, articleDate }) => (
             <meta itemProp="description" content={seo.description} />
             <meta itemProp="image" content={seo.image} />
             {/* fb app id */}
-            <meta property="fb:app_id" content={fbAppId || ''} />
+            {/* <meta property="fb:app_id" content={fbAppId || ''} /> */}
             {/* OpenGraph */}
             <meta property="og:url" content={seo.url} />
             {articleDate ? (
