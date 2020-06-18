@@ -1,7 +1,7 @@
 {
-  "name": "papan-gatsby-starter",
+  "name": "trb-blog",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "A simple blog by TRB",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
@@ -65,9 +65,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/papan01/blog"
+    "url": "https://github.com/teeaarbee/blog"
   },
   "bugs": {
-    "url": "https://github.com/papan01/blog/issues"
+    "url": "https://github.com/teeaarbee/blog/issues"
   }
 }
