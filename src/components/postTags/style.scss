@@ -9,15 +9,16 @@
   > li > a {
     margin-top: $spacing-small;
     margin-right: $spacing-small;
-    padding: 4px;
+    padding: 4px 8px;
     display: inline-block;
+    border: 1px solid var(--tag-border);
     border-radius: $base-border-radius;
-    box-shadow: 0 0 $spacing-xsmall var(--tag-border);
+    // box-shadow: 0 0 $spacing-xsmall var(--tag-border);
     transition: all $transition-faster-easein;
     &:hover {
       color: var(--invert2);
       background: var(--invert1);
-      box-shadow: 0 0 $spacing-large var(--tag-border);
+      box-shadow: 0 0 10px var(--tag-border);
     }
   }
 }

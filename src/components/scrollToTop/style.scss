@@ -6,7 +6,6 @@
   bottom: -$base-spacing-unit * 10;
   right: $base-spacing-unit * 3.5;
   border-radius: $base-border-radius;
-  color: var(--pink1);
   font-size: $font-medium * 1.5;
   display: inline-flex;
   justify-content: center;
@@ -16,7 +15,9 @@
   outline: 0;
   cursor: pointer;
   transition: all $transition-slower-ease;
-  border: $base-border * 0.5 solid rgba(220, 57, 88, 0.15);
+  border: $base-border * 0.5 solid var(--bg4);
+  background: var(--hover-top-icon);
+  color: var(--bg4);
   @include media-breakpoint-up($breakpoint-md) {
     &.to-top-active {
       bottom: $base-spacing-unit * 4.5;

@@ -12,6 +12,7 @@ $z-index: 10;
 @mixin logo {
   .logo {
     margin: 0 $spacing-large;
+
     img {
       transition: all $transition-normal-easein;
       border-radius: $base-border-radius;
@@ -40,11 +41,9 @@ $z-index: 10;
       position: absolute;
       top: $top-bar-height;
       left: 0;
-      background: linear-gradient(
-        to right,
-        var(--subtle-top1),
-        var(--subtle-top2)
-      );
+      background: linear-gradient(to right,
+          var(--subtle-top1),
+          var(--subtle-top2));
       z-index: $z-index;
       width: 100%;
       height: calc(100vh - #{$top-bar-height});
@@ -55,32 +54,42 @@ $z-index: 10;
       }
     }
 
-    > .nav-list {
+    >.nav-list {
       display: flex;
-      > li {
+
+      >li {
         display: flex;
         justify-content: center;
         height: $top-bar-height;
         flex-basis: $nav-item-width;
         transition: all $transition-normal-easeout;
+
         &:hover {
           background: var(--hover-top);
+          color: var(--invert1);
+
           i {
-            color: var(--hover-top-icon);
+            color: var(--bg1);
           }
         }
 
-        > a {
+        >a {
           display: flex;
           flex: 1;
           flex-direction: column;
           align-items: center;
+          color: var(--bg4);
 
           &.active {
-            color: var(--hover-top-icon);
+            color: var(--invert2);
+            background: var(--hover-top);
+            min-height: 50px;
+
+
           }
 
-          > i {
+          >i {
+            color: var(--bg4);
             flex: 1;
             padding-top: $spacing-normal;
             transition: all $transition-faster-linear;
@@ -91,10 +100,12 @@ $z-index: 10;
       @include media-breakpoint-down($top-bar-responsive) {
         flex-direction: column;
         justify-content: center;
-        > li {
+
+        >li {
           padding: $spacing-normal;
           flex-basis: $nav-item-width / 2;
-          > a > i {
+
+          >a>i {
             flex: 0;
           }
         }
@@ -118,7 +129,7 @@ $z-index: 10;
     padding: 0;
     margin: 0 $spacing-large;
 
-    > .theme-toggle-track {
+    >.theme-toggle-track {
       width: 50px;
       height: 24px;
       border-radius: 30px;
@@ -171,7 +182,7 @@ $z-index: 10;
       }
     }
 
-    > .theme-toggle-thumb {
+    >.theme-toggle-thumb {
       position: absolute;
       top: 1px;
       left: 1px;
@@ -183,7 +194,7 @@ $z-index: 10;
       transform: translateX(0);
     }
 
-    > .theme-toggle-screenreader-only {
+    >.theme-toggle-screenreader-only {
       height: 0;
       width: 0;
       opacity: 0;
@@ -193,6 +204,7 @@ $z-index: 10;
 
     &:focus {
       outline: 0;
+
       .theme-toggle-thumb {
         box-shadow: 0 0 2px 3px var(--pink1);
       }
@@ -203,10 +215,11 @@ $z-index: 10;
 .top-bar {
   background: linear-gradient(to right, var(--subtle-top1), var(--subtle-top2));
   margin-bottom: 0;
-  box-shadow: 0 $spacing-xxsmall $spacing-large var(--text-color);
+  // box-shadow: 0 $spacing-xxsmall $spacing-large var(--text-color);
+  box-shadow: 0 10px 20px #ffffff20;
   z-index: $z-index;
 
-  > .container {
+  >.container {
     display: flex;
     height: $top-bar-height;
     align-items: center;
@@ -224,7 +237,7 @@ $z-index: 10;
         display: none;
       }
 
-      > .menu-button {
+      >.menu-button {
         background-color: transparent;
         border: none;
         outline: none;
@@ -236,9 +249,10 @@ $z-index: 10;
         transition: transform $transition-faster-easein;
         @include hoverScale(1.3);
 
-        > i {
-          color: var(--text-color);
+        >i {
+          color: var(--bg1);
           font-size: $base-font-size * 2;
+
           @include media-breakpoint-down($breakpoint-sm) {
             font-size: $base-font-size * 1.5;
           }

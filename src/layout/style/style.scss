@@ -4,9 +4,11 @@
 @import "./fonts/fontawesome/scss/solid.scss";
 @import "./fonts/fontawesome/scss/brands.scss";
 @import "./fonts/fontawesome/scss/fontawesome.scss";
-@import "./fonts/Rubik/scss/fonts";
+// @import "./fonts/Rubik/scss/fonts";
 @import "./base/breakpoints";
 @import "./layout/layout";
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500;600;700&display=swap');
 
 html {
   font-size: $font-medium;
@@ -21,8 +23,10 @@ html {
 }
 
 body {
-  background: var(--bg1);
-  font-family: "Rubik", sans-serif;
+  background: var(--bg4);
+  // font-family: "Rubik", sans-serif;
+  font-family: 'Alata', sans-serif;
+  font-family: 'Work Sans', sans-serif;
   color: var(--text-color);
   padding: 0;
   margin: 0;

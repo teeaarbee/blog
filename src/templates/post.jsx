@@ -19,23 +19,25 @@ const PostPrevNext = ({ prev, next }) => {
         (isMobile ? (
           <Link to={prev.fields.slug} rel="prev" className="mobile-post-prev">
             <i className="fas fa-arrow-left" />
-            prev
+            &nbsp;&nbsp;prev
           </Link>
         ) : (
           <Link to={prev.fields.slug} rel="prev" className="post-prev">
             <i className="fas fa-arrow-left" />
+            &nbsp;&nbsp;
             {prev.frontmatter.title}
           </Link>
         ))}
       {next &&
         (isMobile ? (
           <Link to={next.fields.slug} rel="next" className="mobile-post-next">
-            next
+            next&nbsp;&nbsp;
             <i className="fas fa-arrow-right" />
           </Link>
         ) : (
           <Link to={next.fields.slug} rel="next" className="post-next">
             {next.frontmatter.title}
+            &nbsp;&nbsp;
             <i className="fas fa-arrow-right" />
           </Link>
         ))}
