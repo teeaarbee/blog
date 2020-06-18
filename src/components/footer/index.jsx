@@ -11,9 +11,9 @@ const Footer = () => {
             <i className={`${item.iconClassName} fa-2x`} />
           </a>
         ))}
-        <a href={`${config.pathPrefix}${config.siteRss}`} target="_blank" rel="noopener noreferrer" aria-label="rss">
+        {/* <a href={`${config.pathPrefix}${config.siteRss}`} target="_blank" rel="noopener noreferrer" aria-label="rss">
           <i className="fa fa-rss fa-2x" />
-        </a>
+        </a> */}
       </div>
       <p>{config.copyright}</p>
     </footer>

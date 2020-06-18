@@ -9,7 +9,7 @@ const config = {
   siteLogo: 'static/favicons/favicon.png', // Logo used for manifest.
   siteUrl: 'https://gatsby-starter-papan01.netlify.com', // Domain of your website without pathPrefix.
   pathPrefix: '/', // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
-  siteRss: '/rss.xml', // Path to the RSS file.
+  // siteRss: '/rss.xml', // Path to the RSS file.
   // siteFBAppID: '214355523020609', // FB Application ID for using app insights
   siteGATrackingID: 'UA-168983239-1', // Tracking code ID for google analytics.
   disqusShortname: 'teeaarbee', // Disqus shortname.
