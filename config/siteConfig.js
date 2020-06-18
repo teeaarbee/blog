@@ -6,8 +6,8 @@ const config = {
   siteLanguage: 'en', // Site language.
   siteDescription:
     "Hi! I am TRB. I'm a wannabe Blogger, Influencer, Businessman, Video editor and also an Artist. I'm known as Teeaarbee to the world of internet. Visit my blog and enjoy reading.", // Website description used for RSS feeds/meta description tag.
-  siteLogo: 'static/favicons/favicon.png', // Logo used for manifest.
-  siteUrl: 'https://gatsby-starter-papan01.netlify.com', // Domain of your website without pathPrefix.
+  siteLogo: '../static/favicons/logo.png', // Logo used for manifest.
+  siteUrl: 'https://blog.teeaarbee.com.', // Domain of your website without pathPrefix.
   pathPrefix: '/', // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   // siteRss: '/rss.xml', // Path to the RSS file.
   // siteFBAppID: '214355523020609', // FB Application ID for using app insights
