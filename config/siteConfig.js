@@ -6,10 +6,10 @@ const config = {
   siteLanguage: 'en', // Site language.
   siteDescription:
     "Hi! I am TRB. I'm a wannabe Blogger, Influencer, Businessman, Video editor and also an Artist. I'm known as Teeaarbee to the world of internet. Visit my blog and enjoy reading.", // Website description used for RSS feeds/meta description tag.
-  siteLogo: '../static/favicons/logo.png', // Logo used for manifest.
+  siteLogo: 'static/favicons/logo.png', // Logo used for manifest.
   siteUrl: 'https://blog.teeaarbee.com.', // Domain of your website without pathPrefix.
   pathPrefix: '/', // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
-  // siteRss: '/rss.xml', // Path to the RSS file.
+  siteRss: '/rss.xml', // Path to the RSS file.
   // siteFBAppID: '214355523020609', // FB Application ID for using app insights
   siteGATrackingID: 'UA-168983239-1', // Tracking code ID for google analytics.
   disqusShortname: 'teeaarbee', // Disqus shortname.
