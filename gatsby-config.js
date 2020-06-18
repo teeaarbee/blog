@@ -13,7 +13,7 @@ module.exports = {
     datePublished: config.datePublished,
     copyrightYear: config.copyrightYear,
     twitterUsername: config.twitterUserName,
-    fbAppId: config.siteFBAppID,
+    // fbAppId: config.siteFBAppID,
     copyright: config.copyright,
   },
   plugins: [
