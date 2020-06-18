@@ -1,6 +1,6 @@
 import React from 'react';
 import Layout from '../layout';
-import trbPfp from '../../public/trb_pfp.jpg';
+import logo from '../../static/favicons/logo.png';
 import SEO from '../components/SEO';
 import './about.scss';
 
@@ -9,7 +9,7 @@ const About = () => {
     <Layout>
       <SEO title="About" path="/about" />
       <article className="about">
-        <img src={trbPfp} className="user-avatar" alt="trbPfp" />
+        <img src={logo} className="user-avatar" alt="logo" />
         <section className="about-context">
           <div>
             <h3>T R B</h3>

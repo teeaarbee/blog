@@ -1,6 +1,5 @@
 import React from 'react';
 import Layout from '../layout';
-// import trbPfp from '../../public/trb_pfp.jpg';
 import SEO from '../components/SEO';
 import './about.scss';
 
