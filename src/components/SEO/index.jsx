@@ -17,7 +17,6 @@ const query = graphql`
         datePublished
         copyrightYear
         twitterUsername
-        // fbAppId
       }
     }
   }
@@ -39,7 +38,6 @@ const SEO = ({ title, description, image, path, articleDate }) => (
           datePublished,
           copyrightYear,
           twitterUsername,
-          // fbAppId,
         },
       },
     }) => {
