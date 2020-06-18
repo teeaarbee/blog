@@ -1,7 +1,7 @@
 ---
 title: Henlo From the new Blog
 date: "2020-06-18"
-cover: '../static/images/hello.webp'
+cover: '../static/images/hello.jpg'
 category: Personal
 tags:
   - hello
