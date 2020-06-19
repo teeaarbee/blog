@@ -5,9 +5,12 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: stretch;
+  align-items: center;
   margin-top: $spacing-large * 5;
   margin-bottom: $spacing-large;
+  // position: absolute;
+  //   bottom: 0;
+  //   width: 100%;
 
   > .links {
     flex: 1;
@@ -18,6 +21,7 @@
     > a {
       text-align: center;
       transition: transform $transition-fast-easein;
+      margin: 30px;
       &:hover {
         @include hoverScale(1.3);
       }

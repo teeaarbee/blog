@@ -4,7 +4,7 @@ import './style.scss';
 
 const Footer = () => {
   return (
-    <footer className="footer container">
+    <footer className="footer">
       <div className="links">
         {config.rrssb.map(item => (
           <a href={item.url} key={item.label} target="_top" rel="noopener noreferrer" aria-label={item.label}>
