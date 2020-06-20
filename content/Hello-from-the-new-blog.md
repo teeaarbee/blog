@@ -9,12 +9,12 @@ tags:
 
 ---
 
-### Hello bois
+### Hello peeps
 
-This is my first blog, more like a test blog from a brand new site.
+This is my first blog, more like a test blog in here, my new site.
 
-I will be regular here now. 
+I will be posting weekly here from now on. 
 
-Also, I am building my contact list so if you don't want miss out my new blog, please help me with your email ID. I promise strickly no spam and I won't sell your email IDs xD.
+Also, I am building my contact list so if you don't want miss out my new blog, please help me with your email ID. I promise  no spam and I won't sell your email IDs xD
 
 [Click here and enter your email address](https://www.teeaarbee.com/#blog)
