@@ -19,6 +19,7 @@ const About = () => {
               to my work. With 5 years experience as a Professional Video Editor, I have acquired the skills and
               knowledge necessary to make your project a success. I enjoy every step of the design process, from
               discussion and collaboration.
+              testing about section
             </p>
           </div>
         </section>
