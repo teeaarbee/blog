@@ -30,9 +30,14 @@ const config = {
       iconClassName: 'fa fa-envelope',
     },
     {
-      label: 'facebbok',
-      url: 'https://www.facebook.com/teeaarbee?ref=blog.teeaarbee.com',
-      iconClassName: 'fab fa-facebook',
+      label: 'Youtube',
+      url: 'https://www.youtube.com/teeaarbee?ref=blog.teeaarbee.com',
+      iconClassName: 'fab fa-youtube',
+    },
+    {
+      label: 'Twitter',
+      url: 'https://www.twitter.com/teeaarbee?ref=blog.teeaarbee.com',
+      iconClassName: 'fab fa-twitter-square',
     },
     {
       label: 'instagram',
