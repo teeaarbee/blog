@@ -37,7 +37,8 @@ However, I will continue writing topic specific blogs occasionally, but the week
 Alright so that’s about it for this short blog, make sure you have subscribed to my email newsletter by clicking [here](https://teeaarbee.com/#blog). 
 I have not yet learned to control it tho, so for the next few blogs I might announce via [my Instagram](https://www.instagram.com/teeeaaarbeee) stories.
 
-As time passes on I will slowly develop both this [my main home page site](https://www.teeaarbee.com) to look well organized and appealing. I realized it takes time and experience to build something great and no matter how many tweaks I make now, I won’t be able to get the results I am looking for, unless I allow time to pass and teach me more. 
+As time passes on I will slowly develop this and [my main home page site](https://www.teeaarbee.com) to look more well organized and appealing. 
+I realized it takes time and experience to build something great and no matter how many tweaks I make now, I won’t be able to get the results I am looking for, unless I allow time to pass and teach me more. 
 With that being said, I hope to see you in the next one.
 
 Also try reacting and or commenting *[You can comment anonymously use any random email you want]* below, 

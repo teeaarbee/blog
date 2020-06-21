@@ -15,7 +15,7 @@ const Newsletter = () => {
             <h3>
               <a href="https://teeaarbee.com/#blog">
                 <i className="far fa-arrow-alt-circle-right fa-2x" />
-                Click here and enter your email ID
+                Click here and enter your Email ID
               </a>
             </h3>
           </div>
