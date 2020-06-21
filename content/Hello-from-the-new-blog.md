@@ -1,11 +1,11 @@
 ---
 title: Hello From the new Blog
 date: "2020-06-18"
-cover: '../static/images/hello.jpg'
+cover: '../static/images/3.webp'
 category: Personal
 tags:
+  - test
   - hello
-  - FirstPost
 
 ---
 
