@@ -1,17 +1,17 @@
 ---
-title: testing rss
+title: Hello From the new Blog
 date: "2020-06-18"
-cover: '../static/images/3.webp'
+cover: '../static/images/hello.jpg'
 category: Personal
 tags:
-  - test
   - hello
+  - FirstPost
 
 ---
 
-## Hello Everyone
+### Hello Everyone
 
-This is my rss test
+This is a test blog.
 
 Anything that you see below this blog, has been taken from my [old site](https://teeaarbee.blogspot.com/)
 https://teeaarbee.blogspot.com/
