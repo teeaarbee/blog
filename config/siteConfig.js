@@ -35,6 +35,16 @@ const config = {
       iconClassName: 'fab fa-youtube',
     },
     {
+      label: 'Website',
+      url: 'https://www.teeaarbee.com/?ref=blog.teeaarbee.com',
+      iconClassName: 'fas fa-globe',
+    },
+    {
+      label: 'Facebook',
+      url: 'https://www.facebook.com/teeaarbee/?ref=blog.teeaarbee.com',
+      iconClassName: 'fab fa-facebook',
+    },
+    {
       label: 'Twitter',
       url: 'https://www.twitter.com/teeaarbee?ref=blog.teeaarbee.com',
       iconClassName: 'fab fa-twitter-square',
