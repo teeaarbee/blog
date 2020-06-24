@@ -16,7 +16,7 @@ I am testing out the weekly blog format so expect something like this to be deli
 So this week was kinda my birthday week and I wasn’t so excited which is sad because I always used to be excited as a kid but I guess we grow, things change and that is what happened. 
 
 ##Personal Highlights
-**The biggest highlist from this week was that i turned 22, eh turns out forever 21 was a scam afterall**
+**The biggest highlight from this week was that i turned 22, eh turns out forever 21 was a scam afterall**
 
 Lately I have been very interested in various web based software(s) and I ended up spending quite a lot of time in multiple online forums as I saw my interest in tech return after like 5 long years.
 It’s funny how I was in some way or other connected to the world of computers and software for the last 5 years and I didn’t feel much interested, now that I am about to graduate I find it coming back 😃 great! 
@@ -90,7 +90,11 @@ Umm if you like WWE then maybe you will find this interesting.
 
 - <iframe width="400" height="200" src="https://www.youtube.com/embed/DNmSqwBQy50" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-interesting video essay rusty talks about the future of Instagram
+Interesting video essay rusty talks about the future of Instagram
+
+- <iframe width="400" height="200" src="https://www.youtube.com/embed/hSp3rlhyhj8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Anosher](https://www.instagram.com/shitpostz.exe/) Talks about how he the usage of the word "ROAST" has changed overtime, And I find things related to evolution interesting so felt like sharing 😌
 
 <br></br>
 ###App recommendation 🤪
