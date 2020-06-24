@@ -1,10 +1,10 @@
 ---
-title: Welcome to my new Blogsite
+title: Welcome to my New Blogsite
 date: "2020-06-20"
 cover: '../static/images/man-sitting-on-edge-facing-sunset-915972.jpg'
 category: Personal
 tags:
-  - Blogs
+  - Announcement Blogs
   - FirstPost
 
 ---
