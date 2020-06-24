@@ -4,32 +4,36 @@ date: "2020-06-24"
 cover: '../static/images/22-apartment-architecture-building-210790.jpg'
 category: Weekky Highlights
 tags:
-  - Weekly Blogs
-  - Tech 
+  - Weekly Blogs 
   - Recommendations 
 ---
 
 First Weekly Blog
 
 I am testing out the weekly blog format so expect something like this to be delivered every week.
-So this week was kinda my birthday week and I wasn’t so excited which is sad because I always used to be excited as a kid but I guess we grow, things change and that is what happened. 
+
+So this week was my birthday week and I wasn’t very excited which is sad because I always used to be excited as a kid but I guess as we grow, things change and we lose interest and that is what I guess happened with me too. 
 
 ## Personal Highlights
 **The biggest highlight from this week was that i turned 22, eh turns out forever 21 was a scam afterall**
 
 Lately I have been very interested in various web based software(s) and I ended up spending quite a lot of time in multiple online forums as I saw my interest in tech return after like 5 long years.
+
 It’s funny how I was in some way or other connected to the world of computers and software for the last 5 years and I didn’t feel much interested, now that I am about to graduate I find it coming back 😃 great! 
 
 ###So what was it that I was exploring in the world of internet this week ?
 It was [Google Colab](https://colab.research.google.com/)
 Which is a free cloud based python complier that sort of supports a variety of tasks and is like a virtual computer which we can run for 12 hours straight without much of our own resources being used.
+
 And google colab forced me to experiment and learn various other small softwares like jdownloader and youtube-dl, which I had ignored in the past. I am sorry if you are finding all these very geeky, I’ll try and make a separate blog on it.
 
 
 ##Mental thoughts from the past week
-So, I have been thinking a lot about content creation and blogging in this generation of short video clips, definitely seems like a step backward if you are looking from a perspective of growth, 
+So, I have been thinking a lot about content creation and blogging in this generation of short video clips, definitely seems like a step backward if you are looking from a perspective of growth.
+
 But the thing is, lately I have been more conscious about personal growth rather than let’s say Analytical growth [Growth in terms of internet numbers] 
-Personal growth can’t really be traced like that it’s a inner thing, Also we can use this as an excuse XD which I do. Guess because I just find myself confused hope I understand all these things clearly in the future but till then I am just going to fake it. 😎
+
+Personal growth can’t really be traced like that it’s a andar ki baat. Also we can use this as an excuse XD which I do. Guess because I just find myself confused hope I understand all these things clearly in the future but till then I am just going to fake it. 😎
 
 
 ##Social Media updates
@@ -122,7 +126,7 @@ Interesting video essay rusty talks about the future of Instagram
 
 <iframe src="https://open.spotify.com/embed/track/4E5P1XyAFtrjpiIxkydly4" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
- [If you crush ka name is swati well then congratulation]
+ [If you crush ka name is swati well then congratulations]
 
 ###Now few Memes/Edits to end things on a lighter note 😄
 

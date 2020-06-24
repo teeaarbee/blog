@@ -22,8 +22,10 @@ const About = () => {
                     in the field of video editing.
                     <br></br><br></br>Last year I developed an intrest for books and the genre which i seem to be enjoying the most are Psychology, History
                     and a bit of philosophy. Lately I have also developed a bit of interest in business.
-                    My plans for now are to just explore my interest and learn more about the world. I plan to share my weekly experince via my blogs
-                    i hope you find them intresting. 
+                    My plans for now are to just explore my interest and learn more about the world. 
+                    <br></br>
+                    I plan to share my weekly experince via my blogs here,
+                    I hope you find them intresting. 
                     <br></br><br></br>Thank you! For taking your time to read about me now <a href="https://teeaarbee.com">Click Here</a> to visit my main website XD
             </p>
           </div>
