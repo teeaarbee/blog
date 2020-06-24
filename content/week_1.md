@@ -1,8 +1,8 @@
 ---
-title: Week 1 - Turning 22, Tech and Few Recommendations 
+title: Week 1 - On Turning 22, Tech and Few Recommendations 
 date: "2020-06-24"
 cover: '../static/images/22-apartment-architecture-building-210790.jpg'
-category: Weekky Highlights
+category: Weekly Highlights
 tags:
   - Weekly Blogs 
   - Recommendations 
