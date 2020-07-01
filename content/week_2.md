@@ -1,7 +1,7 @@
 ---
 title: Week 2 - Reading re-enters, Lot of thinking, Nothing ispecial  
 date: "2020-07-01"
-cover: '../static/images/man-using-a-printer-3201783.jpg'
+cover: '../static/images/13376d1b135eec8b2113ad4237bbe68d.jpg'
 category: Weekly Highlights
 tags:
   - Weekly Blogs 
