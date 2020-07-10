@@ -14,7 +14,7 @@ First of all I am sorry for the delay, I was busy with work and college final se
 ## Personal Highlights
 So I did finally reinstall my windows on my new [M.2 SSD](https://amzn.to/3gL6Yop)😎 which btw was a birthday gift from  [@technical_bhurji]( https://www.instagram.com/technical_bhurji/) 
 <br>I did it on Tuesday, I guess. Not to mention the process wasn’t seamless and I faced quite a lot of problems and had to spend hours anxiously tweaking the bios only to leave it at default settings by the end 🥴
-<br>But I did end up fixing everything and reinstalling all applications but wasn’t able to set up my blogging software[s], it actually isn’t one simple software or website where I write these blogs it’s a bit more complicated but thanks to [Rohit]( https://www.instagram.com/uiux.rohit/) for helping me set it up for the seconds time 😌
+<br>But I did end up fixing everything and reinstalling all applications but wasn’t able to set up my blogging software[s], it actually isn’t one simple software or website where I write these blogs it’s a bit more complicated but thanks to [Rohit]( https://www.instagram.com/uiux.rohit/) for helping me set it up for the second time 😌
 
 ##Mental thoughts from the past week
 I don’t remember!!!
