@@ -64,7 +64,7 @@ Entertainment <br>
 *Phone storage decreases gradually* 
 
 <br></br>
-###MUSIC recommendation cuz why not XD
+###MUSIC 🎼
 
 - <iframe src="https://open.spotify.com/embed/track/0CsM8VGDi38kusMv3pxyj1" width="300" height="100" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <br>idk i dont remember listening to this i guess accidentally liked it 
@@ -75,7 +75,7 @@ Entertainment <br>
 - <iframe src="https://open.spotify.com/embed/track/1qTh7hzjd361hjuzeaMFWK" width="300" height="100" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <br> alright i ll share sad songs too in the future when heart bireks again and i dont use cringy words like these 🤭
 
-###Now few Memes/Edits to end things on a lighter note 😄
+###Now few Memes/Edits 
 
 - [![desimemewala-107052637-1213516485655559-6781767808412664222-n.jpg](https://i.postimg.cc/8Pm14bLr/desimemewala-107052637-1213516485655559-6781767808412664222-n.jpg)](https://www.instagram.com/p/CCaTRP1FvEEVL-QmRAJndikr52vkfZPw4fhBno0/)
 <br></br>
