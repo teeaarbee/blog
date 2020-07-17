@@ -10,9 +10,9 @@ tags:
 
 It’s 17th July  02:13am, at the time of me writing this, and this past week has been very unorganized and busy to say the least.
 
-<br>I was blessed with some work and college exam(presentation), which went akright not really that good but still I am happy because  I am don’t with college once and for all
+<br>I was blessed with some work and college exam(presentation), which went alright not really that good but still I am happy because  I am done with college once and for all.
 
-<br>Well please don’t ask me what’s next because I am myself not sure and tbh quite confused atleast I hope I don’t end up taking a passion for studying butterflies [haha 20yo Charles Darwin refernce ok sorry] 
+<br>Well please don’t ask me what’s next because I am myself not sure and tbh quite confused atleast I hope I don’t end up taking a passion for studying butterflies [haha 20yo Charles Darwin refernce ok sorry].
 
 ## Personal Highlights
 So a few things happened irl and by irl I mean ivl(in virtual life) because that is the only sort of life that I have been living for the past few weeks.
