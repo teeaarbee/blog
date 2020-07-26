@@ -6,6 +6,7 @@ category: Weekly Highlights
 tags:
   - Weekly Blogs 
   - Recommendations 
+  - Anxiety
 ---
 This last week was quite emotionally challenging, had a bag of mixed situations which led to a lot of emotions and well it didn’t go well for my mental health
 
