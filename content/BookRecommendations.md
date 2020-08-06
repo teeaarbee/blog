@@ -10,11 +10,11 @@ tags:
 ---
 
 So this is a bit different from my usual blogs.
-<br> Its basically a list of my fav books
+<br> It's basically a list of my fav books.
 
-I will start by putting a list of books that I have read, and then I will list down the ones that i havent read yet 
+I will start by putting a list of books that I have read, and then I will list down the ones that I havent read yet. 
 
-**Investing money** into a book is a very good way of getting into reading, if you are one of those people who download a lot of pirated books and then never read em, its beacuse you havent really invested much into them and that is why you take them for granted.
+**Investing money** into a book is a very good way of getting into reading, if you are one of those people who download a lot of pirated books and then never actually read them, its beacuse you havent really invested much into them and that is why you take them for granted.
 
 So buying a paperback or a <a target="_blank" href="https://www.amazon.in/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=trb049-21&keywords=kindle&index=aps&camp=3638&creative=24630&linkCode=ur2&linkId=d53083c947014c894b7e8dea5bf04073">Kindle</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=ur2&o=31&camp=3638" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />/<a target="_blank" href="https://www.amazon.in/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=trb049-21&keywords=ipad&index=aps&camp=3638&creative=24630&linkCode=ur2&linkId=7dc05141370e77980a44cb574cc971c5">ipad</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=ur2&o=31&camp=3638" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  is a very good way of getting into the habit of reading.
 
