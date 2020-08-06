@@ -39,7 +39,7 @@ Without any further adieu, Here's the list of books
 **Thinking fast and slow** | I have only half read it thus far, idk everytime i start i feel like reading some other book XD but still this is like the most popular book of psychology for normal peeps and business dudes, a must read if you are interested in the field of economics of psychology | <a target="_blank" href="https://www.amazon.in/gp/product/0141033576/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0141033576&linkCode=as2&tag=trb049-21&linkId=9e79379b380b6eb949817232f9d46dfd">On Amazon</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=am2&o=31&a=0141033576" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 **Psychology** | Its a very short intro to some of the very popular schools of psychology/ different experiments and techniques about psychology and from where they came | <a target="_blank" href="https://www.amazon.in/gp/product/1840468521/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1840468521&linkCode=as2&tag=trb049-21&linkId=179f799dd2419c302d834f417331404d">On Amazon</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=am2&o=31&a=1840468521" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-So those were sone of the books that i have read so far,except 2 XD 
+So those were some of the books that i have read so far,except 2 XD 
 
 Now a list of books that i have *wishlisted/ordered/have in my self* and which i am sure i will be reading in the future
 
