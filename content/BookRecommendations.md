@@ -61,6 +61,6 @@ Now a list of books that i have *wishlisted/ordered/have in my self* and which i
 Aight so that's about it for the **recommendations**!!! <br>I will keep updating this page in the book so if you want you can **bookmark** the webpage
 <br>will also link it in my [Insta highlights](https://www.instagram.com/teeaarbee/) for more ease
 
-To stay updated with the future blogs consider subscribing
+To stay up to date with the future blogs consider subscribing
 <br>to get these blogs delivered to you email inboxe 😌
 ###[SUBSCRIBE HERE](https://teeaarbee.com/#blog)
