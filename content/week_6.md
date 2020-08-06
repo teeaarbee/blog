@@ -71,17 +71,20 @@ I completed the dark knight trilogy by watching the dark knight rises for the 3r
 
 Ok so now that I am done with TRB reviews absolute random movies, lets come to YouTube videos 
 
-<iframe width="400" height="200" src="https://www.youtube.com/embed/rd9QvhtUYPQ?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- <iframe width="400" height="200" src="https://www.youtube.com/embed/rd9QvhtUYPQ?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>This is basically pewdiepie's video on twitter ka desi version
 <br>However this has a lot of dislikes 🤬😞 Her video is good tho, try giving it a watch.
 <br>
-<iframe width="400" height="200" src="https://www.youtube.com/embed/BgX0l83Yu24?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- <iframe width="400" height="200" src="https://www.youtube.com/embed/BgX0l83Yu24?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>Again John Fish is among one of my fav creators out there. He is also one my book reading inspirer.
 <br>
-<br><iframe width="400" height="200" src="https://www.youtube.com/embed/W9XW93mdP_Y?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ - <br><iframe width="400" height="200" src="https://www.youtube.com/embed/W9XW93mdP_Y?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>soon enough i will have to face this too, dont know how i will dodge the bullet, but one thing i know is that i will write about it 😌
 <br>
-<iframe width="400" height="200" src="https://www.youtube.com/embed/9QiE-M1LrZk?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- <iframe width="400" height="200" src="https://www.youtube.com/embed/9QiE-M1LrZk?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  <br> Will try to do it this week and share my results in next blog
 
 ###App recommendation 🤪
@@ -94,11 +97,11 @@ For getting streamkeys for your desktop insta livestream
 <br>For more watch this video
 <br> <iframe width="400" height="200" src="https://www.youtube.com/embed/rD1ibZ0LOOw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ###SONGS 🎶🎵
-<iframe src="https://open.spotify.com/embed/track/4O6ZaZrRCFfiZZKjnrXqlk" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+- <iframe src="https://open.spotify.com/embed/track/4O6ZaZrRCFfiZZKjnrXqlk" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <br>
-<iframe src="https://open.spotify.com/embed/track/7szuecWAPwGoV1e5vGu8tl" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+- <iframe src="https://open.spotify.com/embed/track/7szuecWAPwGoV1e5vGu8tl" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <br>
-<iframe src="https://open.spotify.com/embed/track/4fYVgBTMOShPGBKINMN45w" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+- <iframe src="https://open.spotify.com/embed/track/4fYVgBTMOShPGBKINMN45w" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <br>
 
 ###Now few Memes/Edits 😄

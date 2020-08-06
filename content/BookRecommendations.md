@@ -1,0 +1,66 @@
+---
+title: Book Recommendations 📚 
+date: "2020-08-06"
+cover: '../static/images/pexels-ricardo-esquivel-1907785.jpg'
+category: Special
+tags:
+  - Books 
+  - Recommendations 
+  - Reading
+---
+
+So this is a bit different from my usual blogs.
+<br> Its basically a list of my fav books
+
+I will start by putting a list of books that I have read, and then I will list down the ones that i havent read yet 
+
+**Investing money** into a book is a very good way of getting into reading, if you are one of those people who download a lot of pirated books and then never read em, its beacuse you havent really invested much into them and that is why you take them for granted.
+
+So buying a paperback or a <a target="_blank" href="https://www.amazon.in/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=trb049-21&keywords=kindle&index=aps&camp=3638&creative=24630&linkCode=ur2&linkId=d53083c947014c894b7e8dea5bf04073">Kindle</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=ur2&o=31&camp=3638" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />/<a target="_blank" href="https://www.amazon.in/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&tag=trb049-21&keywords=ipad&index=aps&camp=3638&creative=24630&linkCode=ur2&linkId=7dc05141370e77980a44cb574cc971c5">ipad</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=ur2&o=31&camp=3638" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  is a very good way of getting into the habit of reading.
+
+I will soon write a blog on how to stay consistent with reading but for now consider purchasing a book first.
+
+Also if you are going for *paperbacks* then try avoiding the *cheaper versions* as they are moslty locally printed with **bad quality** ink and so you wont be able to see the pictures clearly if there are any in the book, also the paper quality is crap ngl.
+
+----
+Without any further adieu, Here's the list of books
+<br>(These are the ones that I have read myself)
+
+- Name| Personal Review | Affiliate Links
+--- | --- | ---
+**Sapiens** | This is probably my fav book so far, and i guess i have talked about it in tman's podcast earlier this year.  | <a target="_blank" href="https://www.amazon.in/gp/product/0099590085/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0099590085&linkCode=as2&tag=trb049-21&linkId=7cf5b857dd2f196e4bbd561519f35551">On Amazon</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=am2&o=31&a=0099590085" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+**Atomic Habits** | Now like most other people i have grown to personally dislike the genre of self help but this book still stands top of my fav list.<br> This book helped me in developing good habits and understanding the science behind them, in short this book was a life changer for me and i am not even exaggerating  | <a target="_blank" href="https://www.amazon.in/gp/product/1847941834/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1847941834&linkCode=as2&tag=trb049-21&linkId=b94e29a069972ae83ffeca9587448a2e">On Amazon</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=am2&o=31&a=1847941834" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+**Flow** | Now this is a book i would like to recommend to almost everyone, <br>This book is surely going to change your perspective on happiness and work   | [On Amazon](https://amzn.to/3a1VMl9)
+**Factfulness** | This is the most positive book that i have ever read, if you are scared of the future try giving this a read, it will surely change your perspective | <a target="_blank" href="https://www.amazon.in/gp/product/1473637465/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1473637465&linkCode=as2&tag=trb049-21&linkId=1a94533eab8ec15f5da9c8c0a461bbb9">On Amazon</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=am2&o=31&a=1473637465" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+**Man's search for meaning** | Pewdiepie did a review of this [watch that](https://youtu.be/6Aj-D8Z8AME?t=450) | <a target="_blank" href="https://www.amazon.in/gp/product/1846041244/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1846041244&linkCode=as2&tag=trb049-21&linkId=08cea351a6ae2691d6deebe6d20b6c8a">On Amazon</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=am2&o=31&a=1846041244" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+**Homo Deus** | Again harari continues his legacy of sapiens in this sort of sequel i guess, basically its about the future of humanity | <a target="_blank" href="https://www.amazon.in/gp/product/1784703931/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1784703931&linkCode=as2&tag=trb049-21&linkId=7ece8cf79772fe2dacd949ecdfcbf0de">On Amazon</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=am2&o=31&a=1784703931" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+**Deep Work** | I actually listened to the audiobook version of this during my early morning runs, and it was the first audiobook that i had ever listened to, what followed was a chain of changed perspective on a lot of things | <a target="_blank" href="https://www.amazon.in/gp/product/0349413681/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0349413681&linkCode=as2&tag=trb049-21&linkId=b768c5ae4d4cb5fb818dbc1e33e1158e">On Amazon</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=am2&o=31&a=0349413681" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+**Digital Minimalism** | For all the social media addicts out there, and if you think you are not addicted then this is specifically for you | <a target="_blank" href="https://www.amazon.in/gp/product/0241341132/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0241341132&linkCode=as2&tag=trb049-21&linkId=fc14e948f2d58eb67d117de2a2251ae1">On Amazon</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=am2&o=31&a=0241341132" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+**Thinking fast and slow** | I have only half read it thus far, idk everytime i start i feel like reading some other book XD but still this is like the most popular book of psychology for normal peeps and business dudes, a must read if you are interested in the field of economics of psychology | <a target="_blank" href="https://www.amazon.in/gp/product/0141033576/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0141033576&linkCode=as2&tag=trb049-21&linkId=9e79379b380b6eb949817232f9d46dfd">On Amazon</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=am2&o=31&a=0141033576" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+**Psychology** | Its a very short intro to some of the very popular schools of psychology/ different experiments and techniques about psychology and from where they came | <a target="_blank" href="https://www.amazon.in/gp/product/1840468521/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1840468521&linkCode=as2&tag=trb049-21&linkId=179f799dd2419c302d834f417331404d">On Amazon</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=am2&o=31&a=1840468521" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+So those were sone of the books that i have read so far,except 2 XD 
+
+Now a list of books that i have *wishlisted/ordered/have in my self* and which i am sure i will be reading in the future
+
+ - |   | 
+--- | --- | 
+<a target="_blank" href="https://www.amazon.in/gp/product/1787330672/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1787330672&linkCode=as2&tag=trb049-21&linkId=bfaa37dd439f16958c7663b9293eb2a9">21 Lessons for the 21st Century</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=am2&o=31&a=1787330672" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| *Wish List* | 
+<a target="_blank" href="https://www.amazon.in/gp/product/0141983760/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0141983760&linkCode=as2&tag=trb049-21&linkId=621d3c3deff3160daaf28f96581e2ab2">Why We Sleep: The New Science of Sleep and Dreams</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=am2&o=31&a=0141983760" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | *Wish List* |
+<a target="_blank" href="https://www.amazon.in/gp/product/1509813071/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1509813071&linkCode=as2&tag=trb049-21&linkId=11cd1deae5bf65291bc3822597110937">The Knowledge Illusion: The myth of individual thought and the power of collective wisdom</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=am2&o=31&a=1509813071" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | Half Listened and then my audio subsccription ended ig, will buy the book soon |
+<a target="_blank" href="https://www.amazon.in/gp/product/0091929113/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0091929113&linkCode=as2&tag=trb049-21&linkId=ce53467a31ce883e3f3c9f98303d50d3">The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=am2&o=31&a=0091929113" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | **Ordered** |
+<a target="_blank" href="https://www.amazon.in/gp/product/178633089X/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=178633089X&linkCode=as2&tag=trb049-21&linkId=5e97415255491ca401ef67410bbe4fa7">Ikigai: The Japanese secret to a long and happy life</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=am2&o=31&a=178633089X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | *Wish List* |
+<a target="_blank" href="https://www.amazon.in/gp/product/9380658745/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=9380658745&linkCode=as2&tag=trb049-21&linkId=5e075386d48bc5ccfb8bb833dc525808">The Immortals of Meluha (Shiva Trilogy)</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=am2&o=31&a=9380658745" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | **Ordered** |
+<a target="_blank" href="https://www.amazon.in/gp/product/1936891026/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1936891026&linkCode=as2&tag=trb049-21&linkId=846f4c5e14773f7fea8260d117a93755">War Of Art</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=am2&o=31&a=1936891026" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | *Wish List :(* |
+<a target="_blank" href="https://www.amazon.in/gp/product/0670919535/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0670919535&linkCode=as2&tag=trb049-21&linkId=61f4ae2441ed50967d6eb42361851566">The Personal MBA: A World-Class Business Education in a Single Volume</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=am2&o=31&a=0670919535" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | *In shelf* |
+<a target="_blank" href="https://www.amazon.in/gp/product/9353577276/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=9353577276&linkCode=as2&tag=trb049-21&linkId=575c85b0457c521761fd98e902eb4ba0">Why Men Rape: An Indian Undercover Investigation</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=am2&o=31&a=9353577276" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | *Wish List* |
+<a target="_blank" href="https://www.amazon.in/gp/product/085752240X/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=085752240X&linkCode=as2&tag=trb049-21&linkId=0237170ad3327afc297a0d06d9a3e178">The Body: A Guide for Occupants</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=am2&o=31&a=085752240X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | *Wish List* |
+<a target="_blank" href="https://www.amazon.in/gp/product/9389053730/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=9389053730&linkCode=as2&tag=trb049-21&linkId=0e06bee8672fe3bca3bec78ee0cd8861">1984</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=trb049-21&l=am2&o=31&a=9389053730" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> | *In shelf* |
+
+------
+Aight so that's about it for the **recommendations**!!! <br>I will keep updating this page in the book so if you want you can **bookmark** the webpage
+<br>will also link it in my [Insta highlights](https://www.instagram.com/teeaarbee/) for more ease
+
+To stay updated with the future blogs consider subscribing
+<br>to get these blogs delivered to you email inbox
+###[SUBSCRIBE HERE](https://teeaarbee.com/#blog)
