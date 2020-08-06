@@ -62,5 +62,5 @@ Aight so that's about it for the **recommendations**!!! <br>I will keep updating
 <br>will also link it in my [Insta highlights](https://www.instagram.com/teeaarbee/) for more ease
 
 To stay updated with the future blogs consider subscribing
-<br>to get these blogs delivered to you email inbox
+<br>to get these blogs delivered to you email inboxe 😌
 ###[SUBSCRIBE HERE](https://teeaarbee.com/#blog)
