@@ -66,7 +66,20 @@ I won't give a review or anything just quickly list down their names
 Also, I watched this movie called [Me before you](https://g.co/kgs/U2BdLR), 
 <br>It was nice tbh a v sad movie tho still beautiful 
 
-And now some youtube videos from this week 
+And now some **youtube videos** from this week 
+
+- <iframe width="400" height="300" src="https://www.youtube.com/embed/BxV14h0kFs0?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>This is perhaps my fav. from this week and not to mention this channel is now one of my fav channel idk why i didnt discover him earlier on
+<br>His videos are so neat and well explained i watched a lot of his videos this week,
+<br>including this one on copytight too, by far the best video on copyright guidelines 
+- <iframe width="400" height="300" src="https://www.youtube.com/embed/1Jwo5qc78QU?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br><br>
+- <iframe width="400" height="300" src="https://www.youtube.com/embed/YhTRVmjPPa0?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>idk if i have shared his videos before but he is one of my fac among current indian youtubers
+<br><br>
+- <iframe width="400" height="300" src="https://www.youtube.com/embed/rhFK5_Nx9xY?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>and then there's this XD<br>
+
 
 
 ###App recommendation 🤪
