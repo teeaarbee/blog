@@ -78,8 +78,10 @@ And now some **youtube videos** from this week
 <br>idk if i have shared his videos before but he is one of my fac among current indian youtubers
 <br><br>
 - <iframe width="400" height="300" src="https://www.youtube.com/embed/rhFK5_Nx9xY?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>and then there's this XD<br>
+<br>and then there's this<br><br>
 
+- <iframe width="400" height="300" src="https://www.youtube.com/embed/OiGQj3Yb_ZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>tman never disappoints<br> 
 
 
 ###App recommendation 🤪
@@ -91,7 +93,6 @@ not very sure tbh but that is what I think of it thus far
 and there’s a repo in it called [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/) which basically acts as adblocker in android
 Install f-droid then search for it inside the app
 
-<br></br>
 ###MUSIC 🎶🎵
 
 <iframe src="https://open.spotify.com/embed/track/2p8IUWQDrpjuFltbdgLOag" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
