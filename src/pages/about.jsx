@@ -25,7 +25,7 @@ const About = () => {
                     My plans for now are to just explore my interest and learn more about the world. 
                     <br></br>
                     I plan to share my weekly experince via my blogs here,
-                    I hope you find them intresting. 
+                    I hope you find them interesting. 
                     <br></br><br></br>Thank you! For taking your time to read about me now <a href="https://teeaarbee.com">Click Here</a> to visit my main website XD
             </p>
           </div>
