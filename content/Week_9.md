@@ -106,8 +106,6 @@ This week i spent a lot of time watching videos related to notion and different 
 None other than 
 >[Notion](https://www.notion.so/)
 
-<br></br>
-
 ### Songs 🎶🎵
 I discovered a new Indian guy, he is new but I instantly liked all his music.. good stuff i must say
 <iframe src="https://open.spotify.com/embed/track/4hzPjtfqR8FdzqorKbNocV" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
