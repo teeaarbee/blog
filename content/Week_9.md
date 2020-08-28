@@ -1,6 +1,6 @@
 ---
-title: Week 8 – New Love
-date: "2020-08-27"
+title: Week 9 – New Love
+date: "2020-08-28"
 cover: '../static/images/pexels-pixabay-164686.jpg'
 category: Weekly Highlights
 tags:
