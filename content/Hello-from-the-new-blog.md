@@ -19,3 +19,16 @@ https://teeaarbee.blogspot.com/
 Also, I am building my email delivery list, so if you don't wanna miss out on my blogs, enter your email ID below. I promise no spams or junks and I won't sell your email data either xD
 
 [Click here and enter your email address](https://www.teeaarbee.com/#blog)
+
+ 
+<figure>
+    <figcaption>Listen to BRUH:</figcaption>
+    <audio
+        controls
+        src="https://www38.zippyshare.com/d/ycyBn9w6/988/BruhSoundEffect%232.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+ 
