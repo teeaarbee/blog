@@ -78,7 +78,7 @@ And maybe one day i will look back at the things that i am trying out now for th
 [EXPOSED – Shubham Cyber Expert (formerly ‘Cyber Cop’)](https://journomil.wordpress.com/2020/06/30/shubham-cyber-expert-expose/)
 
 - Found this blog called [NESSLABS](https://nesslabs.com/best)
-  <br>She writes good short articles on topic related to neuroscience/psychology and stuffs.
+  <br>She writes good short articles on topic related to neuroscience/psychology and stuff.
 
 ### VIDEOS
 This week i spent a lot of time watching videos related to notion and different things that can be done with it but i guess i will share those videos later on in my dedicated notion blog.
