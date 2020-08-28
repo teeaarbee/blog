@@ -21,15 +21,7 @@ Also, I am building my email delivery list, so if you don't wanna miss out on my
 [Click here and enter your email address](https://www.teeaarbee.com/#blog)
 
  
-<figure>
-    <figcaption>Listen to BRUH:</figcaption>
-    <audio
-        controls
-        src="https://www38.zippyshare.com/d/ycyBn9w6/988/BruhSoundEffect%232.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+
 
 [Click here and enter your email address](https://www38.zippyshare.com/d/ycyBn9w6/988/BruhSoundEffect%232.mp3)
  
