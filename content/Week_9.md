@@ -13,12 +13,11 @@ This week was a lot fun, and by fun i mean i discovered and explored a new Note 
     <figcaption></figcaption>
     <audio
         controls
-        src="https://www38.zippyshare.com/d/ycyBn9w6/988/BruhSoundEffect%232.mp3">
+        src="https://dark-lake-b8a7.trb.workers.dev/6:/BruhSoundEffect2.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
 </figure>
-<audio><source src="https://dark-lake-b8a7.trb.workers.dev/6:/BruhSoundEffect2.mp3"></audio>
 
 Also the blog is slightly delayed... I keep delaying it by a day to maintain 4 blogs per month type of schedule. 
 
