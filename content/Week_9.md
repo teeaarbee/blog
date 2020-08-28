@@ -18,6 +18,7 @@ This week was a lot fun, and by fun i mean i discovered and explored a new Note 
             <code>audio</code> element.
     </audio>
 </figure>
+<audio><source src="https://dark-lake-b8a7.trb.workers.dev/6:/BruhSoundEffect2.mp3"></audio>
 
 Also the blog is slightly delayed... I keep delaying it by a day to maintain 4 blogs per month type of schedule. 
 
