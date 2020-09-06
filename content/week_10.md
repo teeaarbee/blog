@@ -65,25 +65,25 @@ Watched few movies this week
 
 Alright now time for some yt videos
 
-- <iframe width="400" height="300" src="https://www.youtube.com/embed/Xq24T-6Mwrs?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- <iframe width="400" height="240" src="https://www.youtube.com/embed/Xq24T-6Mwrs?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br></br>
-- <iframe width="400" height="300" src="https://www.youtube.com/embed/fM27LtFvyNM?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- <iframe width="400" height="240" src="https://www.youtube.com/embed/fM27LtFvyNM?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br></br>
-- <iframe width="400" height="300" src="https://www.youtube.com/embed/21CEOlBq2YI?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- <iframe width="400" height="240" src="https://www.youtube.com/embed/21CEOlBq2YI?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br></br>
-- <iframe width="400" height="300" src="https://www.youtube.com/embed/-6Xn4nKm-Qw?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- <iframe width="400" height="240" src="https://www.youtube.com/embed/-6Xn4nKm-Qw?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br></br>
-- <iframe width="400" height="300" src="https://www.youtube.com/embed/ucutmH2KvSQ?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- <iframe width="400" height="240" src="https://www.youtube.com/embed/ucutmH2KvSQ?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br></br>
-- <iframe width="400" height="300" src="https://www.youtube.com/embed/Z165LmZjgkI?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br></br>
-- <iframe width="400" height="300" src="https://www.youtube.com/embed/hz6GULbowAk?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br></br>
-- <iframe width="400" height="300" src="https://www.youtube.com/embed/HImdaB7zI1g?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br></br>
-- <iframe width="400" height="300" src="https://www.youtube.com/embed/0MeRN7LE1LQ?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br></br>
-- <iframe width="400" height="300" src="https://www.youtube.com/embed/d0dHGunjXK8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- <iframe width="400" height="240" src="https://www.youtube.com/embed/Z165LmZjgkI?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+- <iframe width="400" height="240" src="https://www.youtube.com/embed/hz6GULbowAk?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+- <iframe width="400" height="240" src="https://www.youtube.com/embed/HImdaB7zI1g?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+- <iframe width="400" height="240" src="https://www.youtube.com/embed/0MeRN7LE1LQ?list=LL-_UVfs3PWw_yQDUsZ5t0_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+- <iframe width="400" height="240" src="https://www.youtube.com/embed/d0dHGunjXK8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br></br>
 
 ###MUSIC
