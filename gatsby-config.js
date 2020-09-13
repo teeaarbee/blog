@@ -21,6 +21,7 @@ module.exports = {
     `gatsby-plugin-sass`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
+    `gatsby-plugin-instagram-embed`,
     {
       resolve: `gatsby-transformer-remark`,
       options: {
