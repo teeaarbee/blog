@@ -1,6 +1,6 @@
 ---
-title: Week 8 – New Love
-date: "2020-08-27"
+title: Week 9 – New Love
+date: "2020-08-28"
 cover: '../static/images/pexels-pixabay-164686.jpg'
 category: Weekly Highlights
 tags:
@@ -13,7 +13,7 @@ This week was a lot fun, and by fun i mean i discovered and explored a new Note 
     <figcaption></figcaption>
     <audio
         controls
-        src="https://www38.zippyshare.com/d/ycyBn9w6/988/BruhSoundEffect%232.mp3">
+        src="https://dark-lake-b8a7.trb.workers.dev/6:/BruhSoundEffect2.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
