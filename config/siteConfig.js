@@ -1,11 +1,11 @@
 const config = {
-  author: 'Teeaarbee', // Site owner
-  siteTitle: 'Blog by Teeaarbee | Teeaarbee.com', // Site title.
-  siteTitleShort: 'Blog by Teeaarbee', // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
-  siteTitleAlt: 'Blog by Teeaarbee', // Alternative site title for SEO.
+  author: 'TRB', // Site owner
+  siteTitle: 'Blog by TRB | TEEAARBEE.com', // Site title.
+  siteTitleShort: 'Blog by TRB', // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
+  siteTitleAlt: 'Blogs by Teeaarbee', // Alternative site title for SEO.
   siteLanguage: 'en', // Site language.
   siteDescription:
-    "Hi! I am TRB. I'm a wannabe Blogger, Influencer, Businessman, Video editor and also an Artist. I'm known as Teeaarbee to the world of internet. Visit my blog and enjoy reading.", // Website description used for RSS feeds/meta description tag.
+    "Hi! I am TRB. Visit my to know more", // Website description used for RSS feeds/meta description tag.
   siteLogo: 'static/favicons/logo.png', // Logo used for manifest.
   siteUrl: 'https://blog.teeaarbee.com', // Domain of your website without pathPrefix.
   pathPrefix: '/', // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
@@ -13,7 +13,7 @@ const config = {
   // siteFBAppID: '214355523020609', // FB Application ID for using app insights
   siteGATrackingID: 'UA-168983239-1', // Tracking code ID for google analytics.
   disqusShortname: 'teeaarbee', // Disqus shortname.
-  twitterUserName: 'Teeaarbee', // twitter creator for SEO
+  twitterUserName: 'teeaarbee', // twitter creator for SEO
   datePublished: '2019-12-08', // for SEO
   copyrightYear: '2020', // for SEO
   postsPerPage: 4, // posts per page used in gatsby-node.js
