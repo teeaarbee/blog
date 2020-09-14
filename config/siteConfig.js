@@ -1,6 +1,6 @@
 const config = {
   author: 'TRB', // Site owner
-  siteTitle: 'Blog by TRB | TEEAARBEE.com', // Site title.
+  siteTitle: 'Blogs by TRB | TEEAARBEE.com', // Site title.
   siteTitleShort: 'Blog by TRB', // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: 'Blogs by Teeaarbee', // Alternative site title for SEO.
   siteLanguage: 'en', // Site language.
