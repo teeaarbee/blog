@@ -1,6 +1,6 @@
 ---
 title: Week 11 – something is coming
-date: "2020-09-19"
+date: "2020-09-13"
 cover: '../static/images/pexels-pixabay-277583.jpg'
 category: Weekly Highlights
 tags:
