@@ -15,8 +15,7 @@ It feels like I got a lot done this week, even though I spent quite a lot of tim
 - I wrote the script and recorded **voice over** of my **video** and it took a lot more than I anticipated, I have linked the video below in [social media update](https://blog.teeaarbee.com/archives/week-12#social-media-updates) section.
 - While everyone was busy playing [Among us](https://g.co/kgs/wvfPSS), I played a bit of [Batman Arkham asylum](https://g.co/kgs/8vCjL3) just to take a trip down memory lane, and also to increase my steam activity.
 - Also read a lot of web articles this week and started **reading a new book**
-
-    [Show Your Work!](https://g.co/kgs/2mv1qw) By Austin Kleon
+    <br> **[Show Your Work!](https://g.co/kgs/2mv1qw) By Austin Kleon** 
 
 - Also I accidentally sent the same **email newsletter** 3 times in a row and that was because of this automation that I made and set it to send every day, I expected it to send only when there was something to send but it kept sending anyway idk if that was because of the mistake in date of my last blog[I mistyped the date to 19th sept(future)] or the email sending service being dumb, anyway I will try and not to set it to everyday, but still I will try and see with the correct date in the future, so please pardon me it will only happen a few time I promise.
 
