@@ -31,6 +31,7 @@
     "gatsby-plugin-sass": "^2.1.20",
     "gatsby-plugin-sharp": "^2.2.37",
     "gatsby-plugin-sitemap": "^2.2.20",
+    "gatsby-plugin-social9-socialshare": "^1.0.3",
     "gatsby-remark-autolink-headers": "^2.1.18",
     "gatsby-remark-custom-blocks": "^2.1.21",
     "gatsby-remark-images": "^3.1.31",
