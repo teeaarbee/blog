@@ -23,6 +23,16 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-instagram-embed`,
     {
+      resolve: 'gatsby-plugin-social9-socialshare',
+      options: {
+        id: 's9-sdk',
+        async: true,
+        defer: true,
+        content: '71eccd5bfc88461da6c6c6dd583ce860',
+        src: 'socialshare.min.js',
+      },
+    },
+    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [

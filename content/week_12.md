@@ -106,6 +106,11 @@ Didn't watch any movie this week ig, also didnt reall watch a lot of yt videos a
 
 ----
 
+Feel free to share this article: 👉🥴👈
+<div class="s9-widget-wrapper"></div>
+
+---
+
 Thanks for reading this week’s blog, I am a bit uncertain this week about the whole voiceover video thing that I have made and I don’t think I will be making any new video without getting a decent microphone first. Idk tho if I will even make a video at all in the future, I mean I kinda wana do it but then again I have so many other works that needs to be done idk I will update my decision In the upcoming blogs.
 
 Aight I guess that's about it for this week, see you again next week. Thank you for reading this, maybe try and interact with the reactions below 😥
