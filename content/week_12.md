@@ -106,7 +106,7 @@ Didn't watch any movie this week ig, also didnt reall watch a lot of yt videos a
 
 ----
 
-Feel free to share this article: 👉🥴👈
+Feel free to share this blog if you want:
 <div class="s9-widget-wrapper"></div>
 
 ---

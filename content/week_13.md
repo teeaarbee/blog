@@ -23,7 +23,7 @@ So in a sense this week was kinda opposite of last week in terms of personal bra
     I don’t know there’s something about single-player games that get me more excited to play them, compared to multiplayer, where you have to wait for your friends to join and then again wait after you die 😐
 	<br>[![batmansteamactivity.png](https://i.postimg.cc/DfcZ44J9/batmansteamactivity.png)](https://steamcommunity.com/id/teeaarbee/)
 ##Thoughts from the past week
--	People often rant about the things after they it to for the 2nd or the 3rd time
+-	People often rant about the things after they find repeating in their ecosystem for the 2nd or the 3rd time.
 They dont rant about the things that they have been seeing for a while or are familiar with. 
 They don’t rant about the things that they are new to.
 -	And a somewhat similar approach can be taken to understanding the rant that someone enjoys.
