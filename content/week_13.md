@@ -25,7 +25,7 @@ So in a sense this week was kinda opposite of last week in terms of personal bra
 ##Thoughts from the past week
 -	People often rant about the things after they find repeating in their ecosystem for the 2nd or the 3rd time.
 They dont rant about the things that they have been seeing for a while or are familiar with. 
-They don’t rant about the things that they are new to.
+Neither do they don’t rant about the things that they are new to.
 -	And a somewhat similar approach can be taken to understanding the rant that someone enjoys.
 Will definitely be using this point in a lot of my upcoming topic based blogs. 
 ##Social Media updates
