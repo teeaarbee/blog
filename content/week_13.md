@@ -1,5 +1,5 @@
 ---
-title: Week 13 – Rest aka lot of batman 
+title: Week 13 – Return of PC gaming 
 date: "2020-09-27"
 cover: '../static/images/14384759901_529464d36d_b.jpg'
 category: Weekly Highlights
