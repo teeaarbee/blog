@@ -14,28 +14,29 @@ This week was very blank.
 - So I completed the Arkham trilogy on Wednesday and after that
 - The 2nd half of the week was pretty dull, I did not do anything productive other than dreaming about doing something productive from next week and writing about it in this blog XD
 - However, I did read a lot of articles and blogs, which I will be sharing below.
-- Also, I went for a run yesterday after almost forever, this was my 3rd / 4th time running after the lockdown started I.e., from March. <br>
+- Also, I went for a run yesterday after almost forever, this was my 3rd / 4th time running after the lockdown started I.e., from March. 
     - And as expected my pace was terrible and my vo2 max level seems to have decreased significantly. <br>
-    - I was only able to run for a kilometer before running out of breath XD <br>
+    - I was only able to run for a kilometer before running out of breath💀<br>
     - Guess I will have to get into the habit of running and becoming fit because this lockdown isn’t going to end anytime soon, 
     <br>and I have already had the **experience** of **not working out** and being a 🥔<br>
     - So, expect more of my running stat flex from the next week or so, as I will work on slowly increasing my fitness level. <br>
-- Another good thing that happened this week was that I have finally fixed my sleep cycle and now I wake up at around 7 am every day. <br>
+- Another good thing that happened this week was that I have finally fixed my sleep cycle and now I wake up at around 7 am every day. 
     - I have plans to shift fear even firther and push myself to wake up at 5 every day from mid-Oct, let’s see if I can do that.
 
 ##Thoughts from the past week
 
-- Been thinking a lot about how to simplify and explain “how someone’s taste in memes/movies/art develop over the time” <br>
+- Been thinking a lot about how to simplify and explain “how someone’s taste in memes/movies/art develop over the time” 
     - For now, I have this theory of layer, where a person slowly travels from one layer to another.<br>
     - You might be familiar with this in terms of layered ironical memes. I am trying to apply that theory to explaining taste in all sorts of entertainment.
+
+##Opinions
+
+- Some opinions are more valuable than other because the person saying that has a lot more experience in that specific field.
 
 ##Social Media updates
 
 - Will post something tomorrow
 
-##opinions
-
-- Some opinions are more valuable than other because the person saying that has a lot of experience in that specific field.
 
 #And Now
 
@@ -46,18 +47,20 @@ This week was very blank.
 - [Top Memes From September 2020](https://cameraboyz.in/top-memes-from-september-2020/) by [irfitachi](https://www.instagram.com/irfitachi.exe/)
 - [Don’t do something you might regret](https://www.sparringmind.com/might-regret/)
 - [Where to find the hours to make it happen](https://sive.rs/uncomf)
+- [Why Every YouTube video have dislikes?](https://theoryofnothings.com/2020/09/28/why-every-youtube-video-have-dislikes/)
 
 ###App
 
 > [Weava highlighter](https://www.weavatools.com/) chrome extension
 
-<br>I had this installed and disabled for a long time but never really used it properly until now,
+<br>I had installed this but never really used it properly until now,
 
-So I have been watching few youtube videos and reading articles on building a second brain and the first thing that is implemented there is establishing a place where we can store our highlights and notes from the articles that we read.
+So I have been watching few youtube videos and reading articles on **building a second brain** and the first thing that is implemented there is establishing a place where we can store our highlights and notes from the articles and books that we read.
 
 For notes well we have [notion](notion.so) but for highlighting the apps used by YouTubers are usually paid once and honestly I wouldn’t mind paying if I was making a lotta cash
 
-<br> so for now this is my temporary place where I will be storing all my highlights and stuff, and also this allows exporting our highlights in .doc format so it's kinda nice as I will be adding those to notion later on.
+so for now this is my temporary place where I will be storing all my highlights and stuff, and also this allows exporting our highlights in .doc format so it's kinda nice as I will be adding those to notion later on.
+
 
 ###VIDEOS
 
@@ -129,14 +132,14 @@ This is a new section of my blog and as the sub-heading says its sort of like an
 
 - So for the next week my number 1 priority will be to bring back running and exercise in my life slowly.
 - Another goal is to make some shitpost / reax images post for my [2nd insta page.](https://www.instagram.com/teeeaaarbeee/)
-- Slowly start becoming more productive as I have already invested around 50 hours of my life to playing games in the last 2 weeks and now I am kinda done with games and want to get back to becoming good old fashion productive. <br>
+- Lastly my 3rd and biggest goal is to slowly start becoming more productive as I have already invested around 50 hours of my life to playing games in the last 2 weeks not that i regret it but and now I am kinda done with games and want to get back to becoming good old fashion productive. <br>
     - However, I don’t feel like writing a lot about it as it’s a bit tricky and if I make a promise and fail it might make me prone to failing more… or maybe I am just overthinking nvm.
 
 ----
 
 Aight I guess that's about it for this week, see you again next week. Thank you for reading this, maybe try and interact with the reactions below 😈
 
-- *PS: you don’t have to signup to comment just use any random email and name, the Plugin doesn't cross-check.**
+**PS: you don’t have to signup to comment just use any random email and name, the Plugin doesn't cross-check.**
 
 Also Subscribe to get these blogs delivered to you email inbox
 
