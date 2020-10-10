@@ -21,7 +21,3 @@ Also, I am building my email delivery list, so if you don't wanna miss out on my
 [Click here and enter your email address](https://www.teeaarbee.com/#blog)
 
  
-
-
-[Click here and enter your email address](https://www38.zippyshare.com/d/ycyBn9w6/988/BruhSoundEffect%232.mp3)
- 
