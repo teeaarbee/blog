@@ -36,6 +36,8 @@ Instagram:
 
 https://www.instagram.com/p/CGDRqB_gHua/
 
+https://www.instagram.com/p/CGMUzvwlmUa/
+
 Youtube:
 
 https://youtu.be/kpcGzW7jaSI
@@ -43,6 +45,8 @@ https://youtu.be/kpcGzW7jaSI
 Spotify:
 
 https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d
+
+https://open.spotify.com/track/1E0wbPUqCXNyGVQRMzSd4c?si=3wYxdecWToieHV99Im4P9w
 
 
 Pinterest:
@@ -66,4 +70,5 @@ https://twitter.com/teeaarbee/status/1314836557220675584
 
 [Click here and enter your email address](https://www.teeaarbee.com/#blog)
 
+ 
  
