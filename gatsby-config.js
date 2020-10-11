@@ -22,6 +22,10 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-instagram-embed`,
+    `gatsby-transformer-remark`,
+    `gatsby-remark-embedder`,
+    `gatsby-plugin-social9-socialshare`,
+    `gatsby-plugin-twitter`,
     {
       resolve: 'gatsby-plugin-social9-socialshare',
       options: {
@@ -30,6 +34,18 @@ module.exports = {
         defer: true,
         content: '71eccd5bfc88461da6c6c6dd583ce860',
         src: 'socialshare.min.js',
+      },
+    },
+    {
+      resolve: `gatsby-plugin-pinterest`,
+      options: {
+        // If you just want to use the default, you can set this to `true`, defaults to `false`
+        saveButton: {
+          // Set to true to hide the text and display only a round P button
+          round: false, // default
+          // Set to true to display a bigger button
+          tall: true, // default
+        },
       },
     },
     {
@@ -62,20 +78,20 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-remark-embedder`,
-      options: {
-        customTransformers: [
-          // Your custom transformers
-        ],
-        services: {
-          // The service-specific options by the name of the service
-        },
-      },
-    },
-    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          {
+            resolve: `gatsby-remark-embedder`,
+            options: {
+              customTransformers: [
+                // Your custom transformers
+              ],
+              services: {
+                // The service-specific options by the name of the service
+              },
+            },
+          },
           `gatsby-remark-relative-images`,
           {
             resolve: `gatsby-remark-images`,
