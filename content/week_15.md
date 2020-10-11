@@ -26,7 +26,7 @@ o	And guess what, I failed all of them xdddd 😔
 I was expecting it to be lower idk why🤪
 ##Thoughts from the past week
 -	I wrote something in my notion quicknotes but its not polished and well thought out, I mean it needs better example… so I will share it in the future 😥
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fhanzuc22%2Fposts%2F700677544132427&show_text=true&width=552&height=168&appId" width="552" height="168" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fhanzuc22%2Fposts%2F700677544132427&show_text=true&width=552&height=168&appId" width="400" height="180" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 ##Social Media updates
 -	Hey I posted something to my main page after a while this week
