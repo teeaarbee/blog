@@ -22,7 +22,7 @@ o	And guess what, I failed all of them xdddd 😔
 
 -	Took an iq test after watching a few vsauce videos 🤹‍♀‍
 
-<a href="https://www.free-iqtest.net" title="Free IQ Test"><img src="http://www.free-iqtest.net/images/badges2/l109.gif" width="200" height="100" alt="Free IQ Test" border="0"></a>
+<a href="https://www.free-iqtest.net" title="Free IQ Test"><img src="https://www.free-iqtest.net/images/badges2/l109.gif" width="200" height="100" alt="Free IQ Test" border="0"></a>
 I was expecting it to be lower idk why🤪
 ##Thoughts from the past week
 -	I wrote something in my notion quicknotes but its not polished and well thought out, I mean it needs better example… so I will share it in the future 😥
@@ -115,14 +115,6 @@ https://twitter.com/teeaarbee/status/1314836557220675584
 
 ###Memes/Edits/Interesting stuff 
 >*refreshing the page will fix any issue with the embeds* 
-
-https://www.instagram.com/p/CGLxtC3Aa1t/
-
-https://www.instagram.com/p/CGLDBEDlVVx/
-
-https://www.instagram.com/p/CGH34eMsMmy/
-
-https://www.instagram.com/p/CGKQtKqlP1z/
 
 https://www.instagram.com/p/CGHhB58lmK5/
 
