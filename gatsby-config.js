@@ -33,6 +33,17 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-plugin-page-progress',
+      options: {
+        includePaths: ['/archives', { regex: '^/archives' }],
+        // excludePaths: ['/blog/beep-beep-lettuce'],
+        height: 3,
+        prependToBody: false,
+        color: `#eb1616`,
+        footerHeight: 500,
+      },
+    },
+    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
