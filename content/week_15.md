@@ -35,7 +35,8 @@ https://www.instagram.com/p/CGDRqB_gHua/
 
 And guess what I am returning to posting on my page, and for the remaining part of the year I will be investing most of my energy into making and publishing content for my main. 
 ####And this was the big announcement XD
-Currently I have 3 videos planned, 2 of them being collabs.
+Currently I have 3 videos planned, 2 of which are collabs out of which 1 is for main yt channel 🌝.
+
 I will be aiming to publish all 3 by the end of this month, lets see what else I can plan for the page.
 ##opinions 
 
