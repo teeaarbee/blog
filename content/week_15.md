@@ -16,7 +16,7 @@ o	And guess what, I failed all of them xdddd 😔
     
     o	 Another thing which [rohit](https://grohit.com/) installed after my suggestion was something called remark remark-embedder, which will allow me to just paste the links of services like Instagram, youtube and spotify and get them embedded instead of manually looking for embed code of each link. 
 
-    Now this has a few downsides too like the lack of customization and insatgram captions being turned on, we are looking for solutions to those issues and they will be fixed too in the future hopefully.<br>
+    Now this has a few downsides too like the lack of customization and instagram captions being turned on, we are looking for solutions to those issues and they will be fixed too in the future hopefully.<br>
 		
     But for now this is a big time saver.
 
@@ -159,7 +159,7 @@ https://www.instagram.com/p/CGKLU2eFbn1/
 ----
 ##Goal(s) for the next week
 -	So my biggest goal for the coming week will be to start waking up at around 5-5:30am in the morning everyday. <br>
--	Another will be to limit social media usage, which i have already initiated by leaving all gcs on insatgram.<br> 
+-	Another will be to limit social media usage, which i have already initiated by leaving all gcs on instagram.<br> 
   I will share my progress next week.
 -	And yes all 3 goals from the last week XD
 
