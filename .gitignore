@@ -71,6 +71,7 @@ yarn-error.log
 
 #misc dir
 misc/
+docs/
 
 package-lock.json
 .vercel

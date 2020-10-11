@@ -33,14 +33,43 @@ module.exports = {
       },
     },
     {
+      resolve: `@gatsby-contrib/gatsby-plugin-elasticlunr-search`,
+      options: {
+        // Fields to index
+        fields: [`title`, `tags`],
+        // How to resolve each field`s value for a supported node type
+        resolvers: {
+          // For any node of type MarkdownRemark, list how to resolve the fields` values
+          MarkdownRemark: {
+            title: node => node.frontmatter.title,
+            tags: node => node.frontmatter.tags,
+            path: node => node.frontmatter.path,
+          },
+        },
+        // Optional filter to limit indexed nodes
+        // filter: (node, getNode) => node.frontmatter.tags !== "exempt",
+      },
+    },
+    {
       resolve: 'gatsby-plugin-page-progress',
       options: {
         includePaths: ['/archives', { regex: '^/archives' }],
         // excludePaths: ['/blog/beep-beep-lettuce'],
-        height: 3,
+        height: 5,
         prependToBody: false,
         color: `#eb1616`,
         footerHeight: 500,
+      },
+    },
+    {
+      resolve: `gatsby-remark-embedder`,
+      options: {
+        customTransformers: [
+          // Your custom transformers
+        ],
+        services: {
+          // The service-specific options by the name of the service
+        },
       },
     },
     {
