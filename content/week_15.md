@@ -33,7 +33,7 @@ I was expecting it to be lower idk why🤪
 
 https://www.instagram.com/p/CGDRqB_gHua/
 
-And guess what I am returning to posting on my page, and for the remaining part of the year I will be investing most of my energy into making and publishing content for my main. 
+And guess what I am **returning** to my main page, and for the remaining part of the year[2020] I will be investing most of my energy into making and publishing content for my [main](https://www.instagram.com/teeaarbee/). 
 ####And this was the big announcement XD
 Currently I have 3 videos planned, 2 of which are collabs out of which 1 is for main yt channel 🌝.
 
