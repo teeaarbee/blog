@@ -1,0 +1,1 @@
+.about{display:-ms-grid;display:grid;-ms-grid-columns:auto 2fr;grid-template-columns:auto 2fr}.about .user-avatar{width:144px;height:144px;margin:0 1rem}.about .about-context{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-line-pack:center;align-content:center}.about .about-context h3{margin:0}.about .about-context .time{margin:.5em 0}

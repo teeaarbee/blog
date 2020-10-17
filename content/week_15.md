@@ -42,15 +42,15 @@ I will be aiming to publish all 3 by the end of this month, lets see what else I
 
 https://twitter.com/teeaarbee/status/1314092710232387584
 
-#And Now 
-##My Favourites from the Week 
-###Blog/Article
+# And Now 
+## My Favourites from the Week 
+### Blog/Article
 -	[Kindle vs paperback](https://www.oprahmag.com/entertainment/books/a23390866/kindle-vs-book/)
 <br>This kinda made me want to get a kindle
 
 -	[Blogging-It's Good for You](https://www.scientificamerican.com/article/the-healthy-type/)
 😎💅✍
-###VIDEOS 📺 
+### VIDEOS 📺 
 >*Tap on the video titles to open the videos using the YouTube app* 
 - Firangi Videos
 
@@ -78,7 +78,7 @@ https://youtu.be/KEP1BmoOppA?list=LL-_UVfs3PWw_yQDUsZ5t0_w
 
 https://youtu.be/OT4taPCAsBk?list=LL-_UVfs3PWw_yQDUsZ5t0_w
 
-###Apps 📱 
+### Apps 📱 
 Actually, I forgot to recommend these last week 
 >[Access Dots - iOS 14 cam/mic access indicators!]( https://play.google.com/store/apps/details?id=you.in.spark.access.dots)
 <br>Gives you ios like dot indicator whenever an app uses your phone or camera
@@ -87,7 +87,7 @@ Actually, I forgot to recommend these last week
 >[Notification History Log](https://play.google.com/store/apps/details?id=com.ikvaesolutions.notificationhistorylog)
 <br>If you miss out on notifications because you accidentally swiped them then this might help
 <br>
-###MUSIC 🎶🎵
+### MUSIC 🎶🎵
 
 <iframe src="https://open.spotify.com/embed/track/0rOLFkjY5DSIViVBNnzOuK" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -113,8 +113,10 @@ https://twitter.com/teeaarbee/status/1314836557220675584
 
 <iframe src="https://open.spotify.com/embed/track/27uqXX6GcgnvzE2QzNaj4z" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-###Memes/Edits/Interesting stuff 
->*refreshing the page will fix any issue with the embeds* 
+### Memes/Edits/Interesting stuff 
+
+[[info]]
+|Hard refreshing the page(Ctrl+Shft+R) should fix any issue with the below IG embeds 
 
 https://www.instagram.com/p/CGHhB58lmK5/
 

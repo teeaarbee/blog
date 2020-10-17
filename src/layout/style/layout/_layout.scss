@@ -6,7 +6,7 @@
 
 .page-wrap {
   @extend .container;
-  margin-top: $spacing-xlarge;
+  margin-top: $spacing-xxxlarge;
 
   @include media-breakpoint-between($breakpoint-sm, $breakpoint-md) {
     padding: $spacing-normal * 2;

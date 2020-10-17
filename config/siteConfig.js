@@ -77,6 +77,11 @@ const config = {
       url: '/Newsletter',
       iconClassName: 'fa fa-envelope',
     },
+    {
+      label: 'Search',
+      url: '/search',
+      iconClassName: 'fas fa-search',
+    },
   ],
 };
 config.copyright = `Copyright © ${config.copyrightYear}. ${config.author}`;

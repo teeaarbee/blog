@@ -21,7 +21,7 @@
     > a {
       text-align: center;
       transition: transform $transition-fast-easein;
-      margin: 30px;
+      margin: 10px;
       &:hover {
         @include hoverScale(1.3);
       }

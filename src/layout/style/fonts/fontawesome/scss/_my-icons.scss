@@ -80,3 +80,7 @@
 .#{$fa-css-prefix}-globe:before {
   content: fa-content($fa-var-globe);
 }
+
+.#{$fa-css-prefix}-search:before {
+  content: fa-content($fa-var-search);
+}

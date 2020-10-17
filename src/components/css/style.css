@@ -1,0 +1,31 @@
+.to-top {
+  position: fixed;
+  bottom: -10rem;
+  right: 3.5rem;
+  border-radius: 4px;
+  font-size: 1.5rem;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 50px;
+  height: 50px;
+  outline: 0;
+  cursor: pointer;
+  -webkit-transition: all 2s ease;
+  transition: all 2s ease;
+  border: 1.5px solid var(--bg4);
+  background: var(--hover-top-icon);
+  color: var(--bg4);
+}
+
+@media only screen and (min-width: 1080px) {
+  .to-top.to-top-active {
+    bottom: 4.5rem;
+  }
+}

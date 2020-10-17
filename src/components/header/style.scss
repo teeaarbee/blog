@@ -216,9 +216,11 @@ $z-index: 10;
   background: linear-gradient(to right, var(--subtle-top1), var(--subtle-top2));
   margin-bottom: 0;
   // box-shadow: 0 $spacing-xxsmall $spacing-large var(--text-color);
-  box-shadow: 0 10px 20px #ffffff20;
+  box-shadow: 0 10px 20px #ff000050;
   z-index: $z-index;
-
+  position: fixed;
+  width: 100%;
+  top: 0;
   >.container {
     display: flex;
     height: $top-bar-height;
