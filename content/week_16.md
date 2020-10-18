@@ -106,31 +106,12 @@ I recently switched to [qbittorrent](https://www.qbittorrent.org/) from utorrent
 
 ### Memes/Edits/Interesting stuff 
 
-https://www.instagram.com/p/CGcy5IAFTKL/
 
 https://www.instagram.com/p/CGZRexWFmV-/
 
 https://www.instagram.com/p/CGeJLJSl8eX/
 
-https://www.instagram.com/p/CGcYul7F6Zx/
 
-https://www.instagram.com/p/CGcaMSsFSMc/
-
-https://www.instagram.com/p/CGZstbIFVLV/
-
-<!-- https://www.instagram.com/p/CGXNgLjluwR/ -->
-
-https://www.instagram.com/p/CGUgcLxFFRB/
-
-https://www.instagram.com/p/CGUgcLxFFRB/
-
-https://www.instagram.com/p/CGU3XPwDQWZ/
-
-https://www.instagram.com/p/CGOziaJn0Nh/
-
-https://www.instagram.com/p/CGbBvj5A2HS/
-
-https://www.instagram.com/p/CGNViSSlgOX/
 
 ----
 ##Goal(s) for the next week
