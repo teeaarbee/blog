@@ -105,7 +105,14 @@ I recently switched to [qbittorrent](https://www.qbittorrent.org/) from utorrent
 <iframe src="https://open.spotify.com/embed/track/4fXGWiVhlOLdhwRDP6pIFG" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
+### Memes/Edits/Interesting stuff 
 
+
+https://www.instagram.com/p/CGZRexWFmV-/
+
+
+
+https://www.instagram.com/p/CGeJLJSl8eX/
 
 
 
