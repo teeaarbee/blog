@@ -118,37 +118,37 @@ https://twitter.com/teeaarbee/status/1314836557220675584
 [[info]]
 |Hard refreshing the page(Ctrl+Shft+R) should fix any issue with the below IG embeds 
 
-https://www.instagram.com/p/CGHhB58lmK5/
+https://www.instagram.com/p/CGHhB58lmK5
 
-https://www.instagram.com/p/CGHp5fBlC7l/
+https://www.instagram.com/p/CGHp5fBlC7l
 
-https://www.instagram.com/p/CGBi9b4FYY8/
+https://www.instagram.com/p/CGBi9b4FYY8
 
-https://www.instagram.com/p/CGFnMHRludT/
+https://www.instagram.com/p/CGFnMHRludT
 
-https://www.instagram.com/p/CGC10XtllvX/
+https://www.instagram.com/p/CGC10XtllvX
 
-https://www.instagram.com/p/CGE_gVOFju6/
+https://www.instagram.com/p/CGE_gVOFju6
 
-https://www.instagram.com/p/CGFLIZAgtbm/
+https://www.instagram.com/p/CGFLIZAgtbm
 
-https://www.instagram.com/p/CGEUhyIpaQO/
+https://www.instagram.com/p/CGEUhyIpaQO
 
-https://www.instagram.com/p/CGCQQDSpcJQ/
+https://www.instagram.com/p/CGCQQDSpcJQ
 
-https://www.instagram.com/p/CF_ifveBfZY/
+https://www.instagram.com/p/CF_ifveBfZY
 
-https://www.instagram.com/p/CF9TSceFqvr/
+https://www.instagram.com/p/CF9TSceFqvr
 
-https://www.instagram.com/p/CF1Z2ZQBkvU/
+https://www.instagram.com/p/CF1Z2ZQBkvU
 
-https://www.instagram.com/p/CF8tz5njg8h/
+https://www.instagram.com/p/CF8tz5njg8h
 
-https://www.instagram.com/p/CGMMB_4HZgi/
+https://www.instagram.com/p/CGMMB_4HZgi
 
-https://www.instagram.com/p/CF8qZ5jg0bC/
+https://www.instagram.com/p/CF8qZ5jg0bC
 
-https://www.instagram.com/p/CGKLU2eFbn1/
+https://www.instagram.com/p/CGKLU2eFbn1
 
 ----
 ##Goal(s) for the next week
