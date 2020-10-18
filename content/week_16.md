@@ -79,7 +79,7 @@ Tman best as always
 - https://youtu.be/Z7c2q2kPWqU?list=LL
 
 
-###Podcast
+### Podcast
 
 https://youtu.be/VDH68rNkEXo?list=LL
 
@@ -89,10 +89,10 @@ Tweeted this out for experimental purposes only but i was genuinely blown away w
 
 Lowkey wish to join but i am nowhere near that knowledgable yet, maybe in the future 🧘‍♂️
 
-###App 
+### App 
 I recently switched to [qbittorrent](https://www.qbittorrent.org/) from utorrent as utorrent was getting detected as virus by windows defender, could have been a false alarm but I was tired of the ads anyway so qbittorrent is a much better and ad free open source alternative.
 <br>
-###MUSIC 🎶🎵
+### MUSIC 🎶🎵
 
 <iframe src="https://open.spotify.com/embed/track/12AjhiaIdCBGRgV1iSdPy8" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <br></br>
@@ -104,7 +104,7 @@ I recently switched to [qbittorrent](https://www.qbittorrent.org/) from utorrent
 <br></br>
 <iframe src="https://open.spotify.com/embed/track/4fXGWiVhlOLdhwRDP6pIFG" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-###Memes/Edits/Interesting stuff 
+### Memes/Edits/Interesting stuff 
 
 https://www.instagram.com/p/CGcy5IAFTKL/
 
