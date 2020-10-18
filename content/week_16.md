@@ -135,7 +135,8 @@ https://www.instagram.com/p/CGNViSSlgOX/
 ----
 ##Goal(s) for the next week
 Not sure about what I should set up for next week as this week was a huge success XD
--	But one of the thing that I am planning to do is not connecting  mobile to internet after waking up, instead I will do that after I return from my run idk if I will be able to pull this off or not
+-	But one of the thing that I am planning to do is not connecting  mobile to internet after waking up, instead I will do that after I return from my run idk if I will be able to pull this off or not.
+
 -	Another goal will be to implement the pomodoro technique to my work because i have been getting distracted a lot lately.
 
 ----
