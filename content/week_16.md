@@ -51,10 +51,10 @@ I wanted to share the tweet but it wasn’t well phrased, but it got 60 likes so
 ##My Favourites from the Week 
 ###Blog/Article
 I did not get much time to read articles exclusively because everytime I wanted to read I picked up homo deus and read that book instead still I will share something similar to what I was reading in that book
-- [The Great War of Morality and Ethics](https://theoryofnothings.com/2020/06/09/the-great-war-of-morality-and-ethics/) by Aniket 
+- [The Great War of Morality and Ethics](https://kutt.it/cFy4Su) by Aniket 
 
 ###Bonus
-In wake of airtel collecting a lot of our private data here’s a [List of Privacy respecting services and software](https://onehack.us/t/big-list-of-privacy-respecting-services-and-software/135224) if the page isn’t available then here is a [web snapshot](https://web.archive.org/web/20201018084053/https://onehack.us/t/big-list-of-privacy-respecting-services-and-software/135224) of the page
+In wake of [airtel collecting a lot of our private data](https://kutt.it/mEKoJu) here’s a [List of Privacy respecting services and software](https://kutt.it/3WkshM) if the page isn’t available then here is a [web snapshot](https://kutt.it/B2mZwi) of the page
 
 ###VIDEOS
 
