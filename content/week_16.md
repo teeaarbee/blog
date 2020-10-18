@@ -145,7 +145,7 @@ Thanks for reading my blog till the very end, I am quite excited and concerned a
 **Let’s see how life unfolds in the coming weeks.** 
 
 
-*Subscribe to get these blogs delivered to you email inbox*
+***Subscribe to get these blogs delivered to you email inbox***
 
 ###[SUBSCRIBE HERE](https://teeaarbee.com/#blog)
 
