@@ -1,5 +1,5 @@
 ---
-title: Week 16 – Change of plans🤐
+title: Week 16 – Change of plans 🏃‍♂️
 date: "2020-10-18"
 cover: '../static/images/pexels-elias-tigiser-1090745.jpg'
 category: Weekly Highlights
