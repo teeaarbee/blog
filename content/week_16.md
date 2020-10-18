@@ -118,8 +118,6 @@ https://www.instagram.com/p/CGcaMSsFSMc/
 
 https://www.instagram.com/p/CGZstbIFVLV/
 
-https://www.instagram.com/p/CGXNgLjluwR/
-
 https://www.instagram.com/p/CGUgcLxFFRB/
 
 https://www.instagram.com/p/CGUgcLxFFRB/
