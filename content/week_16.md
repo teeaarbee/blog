@@ -111,56 +111,7 @@ I recently switched to [qbittorrent](https://www.qbittorrent.org/) from utorrent
 [[warning]]
 | Had to remove IG links as there is something going with Instagram Embed API, so the plugin i was using is broke atm.
 | Will update it back soon once the plugin is fixed 😢
-[Read this page if you care ](https://developers.facebook.com/docs/instagram/oembed)
-
-### testing updated plugin
-
-
-https://www.instagram.com/p/CGZRexWFmV-
-
-
-
-https://www.instagram.com/p/CGeJLJSl8eX
-
-
-
-https://www.instagram.com/p/CGcYul7F6Zx/
-
-
-
-https://www.instagram.com/p/CGcaMSsFSMc/
-
-
-
-https://www.instagram.com/p/CGZstbIFVLV/
-
-
-
-https://www.instagram.com/p/CGXNgLjluwR/
-
-
-
-https://www.instagram.com/p/CGUgcLxFFRB/
-
-
-
-https://www.instagram.com/p/CGUgcLxFFRB/
-
-
-
-https://www.instagram.com/p/CGU3XPwDQWZ/
-
-
-
-https://www.instagram.com/p/CGOziaJn0Nh/
-
-
-
-https://www.instagram.com/p/CGbBvj5A2HS/
-
-
-
-https://www.instagram.com/p/CGNViSSlgOX/
+[Read more ](https://developers.facebook.com/docs/instagram/oembed)
 
 
 ----
