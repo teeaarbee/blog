@@ -1,0 +1,31 @@
+.post-tags {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  padding: 0;
+  margin: 0;
+}
+
+.post-tags > li > a {
+  margin-top: 0.75rem;
+  margin-right: 0.75rem;
+  padding: 4px 8px;
+  display: inline-block;
+  border: 1px solid var(--tag-border);
+  border-radius: 4px;
+  -webkit-transition: all 0.25s ease-in;
+  transition: all 0.25s ease-in;
+}
+
+.post-tags > li > a:hover {
+  color: var(--invert2);
+  background: var(--invert1);
+  -webkit-box-shadow: 0 0 10px var(--tag-border);
+          box-shadow: 0 0 10px var(--tag-border);
+}
+/*# sourceMappingURL=style.css.map */

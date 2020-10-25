@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AAAA,gBAAgB,CAAC;EACf,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,eAAe,EAAE,MAAM;EACvB,MAAM,ECMQ,OAAyB,CDNhB,CAAC;EACxB,SAAS,EAAE,IAAI;CAChB",
+    "sources": [
+        "categories.scss",
+        "../layout/style/base/_setting.scss",
+        "../layout/style/base/_mixin.scss"
+    ],
+    "names": [],
+    "file": "categories.css"
+}
