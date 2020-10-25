@@ -39,7 +39,7 @@ So everyday after coming back from run, I shower and then instead of jumping to 
 ## Thoughts from the past week
 I watched Mirzapur and Idk I kinda liked it maybe because I had really low expectations from it lmao. 
 
-I still remember back in 2018 when Mirzapur was about to come out and their marketing agency tried to promote it via small meme pages [[I was among them](https://kutt.it/trbhighlights)]
+I still remember back in 2018 when Mirzapur was about to come out and their marketing agency tried to promote it via small meme pages [[I was among them](https://kutt.it/6ALIOX)]
 
 Back then few of my meme friends thought it wouldn’t work and here we are 2 years later, Almost everyone is posting stories of it,
 
@@ -57,7 +57,7 @@ Made an ytff style intro for saiman[edited the source from yt :P]
 And got a shoutout from him, which then prompted a lot of people to come check my main page and 🥱 … boring ... moving on 
 
 I posted highlights from [Homo Deus](https://amzn.to/2VCeTMJ) to my insta story.
-<br>You can find them [here](https://kutt.it/trbhighlights)[original] or [here](https://imgur.com/a/mupqMFJ) if you aren't on instagram 
+<br>You can find them [here](https://kutt.it/trbhighlights)[original] or [here](https://kutt.it/2thiMm) if you aren't on instagram 
 
 
 ##My Favourites from the Week 
