@@ -33,11 +33,6 @@ https://codepen.io/team/codepen/pen/PNaGbb
 
 Instagram:
 
-
-https://www.instagram.com/p/CGDRqB_gHua/
-
-https://www.instagram.com/p/CGMUzvwlmUa/
-
 Youtube:
 
 https://youtu.be/kpcGzW7jaSI
