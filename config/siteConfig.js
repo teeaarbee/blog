@@ -1,11 +1,11 @@
 const config = {
   author: 'TRB', // Site owner
   siteTitle: 'Blogs by TRB | TEEAARBEE.com', // Site title.
-  siteTitleShort: 'Blog by TRB', // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
-  siteTitleAlt: 'Blogs by Teeaarbee', // Alternative site title for SEO.
+  siteTitleShort: 'Blogs by TRB', // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
+  siteTitleAlt: 'TRB Blogs', // Alternative site title for SEO.
   siteLanguage: 'en', // Site language.
   siteDescription:
-    "Hi! I am TRB. Visit my to know more", // Website description used for RSS feeds/meta description tag.
+    "Hi! I am TRB. Visit my site to know more", // Website description used for RSS feeds/meta description tag.
   siteLogo: 'static/favicons/logo.png', // Logo used for manifest.
   siteUrl: 'https://blog.teeaarbee.com', // Domain of your website without pathPrefix.
   pathPrefix: '/', // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
