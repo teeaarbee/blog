@@ -1,0 +1,65 @@
+.post-short-list li {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 1.4rem;
+  border-left: 1px solid var(--yellow1);
+  -webkit-transition: background-color 0.25s ease-in-out;
+  transition: background-color 0.25s ease-in-out;
+}
+
+@media only screen and (max-width: 767.98px) {
+  .post-short-list li {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+}
+
+.post-short-list li:hover {
+  background-color: var(--bg2);
+}
+
+.post-short-list li:hover .post-date-timetoread p:nth-child(1) {
+  border-left: 3px solid var(--yellow1);
+}
+
+.post-short-list li:hover > a {
+  color: var(--pink1);
+}
+
+.post-short-list li .post-date-timetoread {
+  -ms-flex-preferred-size: 30%;
+      flex-basis: 30%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+@media only screen and (max-width: 767.98px) {
+  .post-short-list li .post-date-timetoread {
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: flex-start;
+  }
+}
+
+.post-short-list li .post-date-timetoread p:nth-child(1) {
+  padding: 0 0.75rem;
+  border-left: 3px solid transparent;
+}
+
+.post-short-list li > a {
+  padding: 0 0.75rem;
+  -webkit-transition: color 0.25s ease-in-out;
+  transition: color 0.25s ease-in-out;
+}
+
+.post-short-list li > a:hover {
+  color: var(--pink2);
+}
+/*# sourceMappingURL=style.css.map */
