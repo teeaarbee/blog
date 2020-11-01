@@ -19,6 +19,7 @@ Still dealing with the insta embed issue and thats what delayed this week's blog
     ◘ It was hard to cut off *phone usage* after waking up and I didn’t feel like forcing myself.<br>
     ◘ Now coming to the goal of using a **pomodoro** timer,
     <br>I tried using pomodoro but as it happened, 
+    
 <br>I would usually continue working past the timer without noticing it or I would get distracted regardless of it. <br>
 
     But I still want to continue using it properly in the future, it was in a way slightly helpful, I need to optimize its usage in accordance with my behaviours.
@@ -134,6 +135,27 @@ These are the ones I listened to
 [More info](https://developers.facebook.com/docs/instagram/oembed)
 
 Hopefully this will be fixed by next week 😣 
+<br>Update<br>
+
+https://www.instagram.com/p/CGj4GmXA1j4/
+
+https://www.instagram.com/p/Bp2eonijHYU/
+
+https://www.instagram.com/p/CGwUQSqlq5M/
+
+https://www.instagram.com/p/CGkOFjCsEE7/
+
+https://www.instagram.com/p/CGrYmdLFA4I/
+
+https://www.instagram.com/p/CGosrhpp9Bq/
+
+https://www.instagram.com/p/CGmQ-tklAr5/
+
+https://www.instagram.com/p/CGnIb5-lJTm/
+
+https://www.instagram.com/p/CGmXRMthvrX/
+
+https://www.instagram.com/p/CGkiGpTlolL/
 
 ----
 ##Goal(s) for the next week
