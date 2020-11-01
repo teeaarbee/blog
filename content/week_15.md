@@ -116,10 +116,43 @@ https://twitter.com/teeaarbee/status/1314836557220675584
 ### Memes/Edits/Interesting stuff 
 
 
-[[warning]]
-| Had to remove IG links as there is something going with Instagram Embed API, so the plugin i was using is broke atm.
-| Will update it back soon once the plugin is fixed 😢
-[Read this page if you care ](https://developers.facebook.com/docs/instagram/oembed)
+[[info]]
+| Finally IG embed issue is fixed and all my fav memes are back: (in case you see any issues, feel free to drop a comment below or email me)
+
+DO a hard refreshing the page (Ctrl+Shft+R - on windows machine & cmd + option + R on Mac) should fix any issue with white/blank IG posts
+
+
+https://www.instagram.com/p/CGHhB58lmK5
+
+https://www.instagram.com/p/CGHp5fBlC7l
+
+https://www.instagram.com/p/CGBi9b4FYY8
+
+https://www.instagram.com/p/CGFnMHRludT
+
+https://www.instagram.com/p/CGC10XtllvX
+
+ 
+
+https://www.instagram.com/p/CGFLIZAgtbm
+
+https://www.instagram.com/p/CGEUhyIpaQO
+
+https://www.instagram.com/p/CGCQQDSpcJQ
+
+https://www.instagram.com/p/CF_ifveBfZY
+
+https://www.instagram.com/p/CF9TSceFqvr
+
+https://www.instagram.com/p/CF1Z2ZQBkvU
+
+https://www.instagram.com/p/CF8tz5njg8h
+
+https://www.instagram.com/p/CGMMB_4HZgi
+
+https://www.instagram.com/p/CF8qZ5jg0bC
+
+https://www.instagram.com/p/CGKLU2eFbn1
 
 ----
 ##Goal(s) for the next week

@@ -1,4 +1,5 @@
 const config = require('./config/siteConfig');
+require('dotenv').config();
 
 module.exports = {
   pathPrefix: config.pathPrefix === '' ? '/' : config.pathPrefix,
@@ -77,7 +78,9 @@ module.exports = {
                 // Your custom transformers
               ],
               services: {
-                // The service-specific options by the name of the service
+                Instagram: {
+                  accessToken: process.env.INSTAGRAM_ACCESS_TOKEN,
+                },
               },
             },
           },

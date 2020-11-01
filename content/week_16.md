@@ -108,13 +108,10 @@ I recently switched to [qbittorrent](https://www.qbittorrent.org/) from utorrent
 ### Memes/Edits/Interesting stuff 
 
 
-[[warning]]
-| Had to remove IG links as there is something going with Instagram Embed API, so the plugin i was using is broke atm.
-| Will update it back soon once the plugin is fixed 😢
-[Read this page if you care ](https://developers.facebook.com/docs/instagram/oembed)
+[[info]]
+| Finally IG embed issue is fixed and all my fav memes are back: (in case you see any issues, feel free to drop a comment below or email me)
 
-### testing updated plugin
-
+DO a hard refreshing the page (Ctrl+Shft+R - on windows machine & cmd + option + R on Mac) should fix any issue with white/blank IG posts 
 
 https://www.instagram.com/p/CGZRexWFmV-
 
@@ -150,9 +147,7 @@ https://www.instagram.com/p/CGUgcLxFFRB/
 
 https://www.instagram.com/p/CGU3XPwDQWZ/
 
-
-
-https://www.instagram.com/p/CGOziaJn0Nh/
+ 
 
 
 
