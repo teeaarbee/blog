@@ -18,11 +18,12 @@ Still dealing with the insta embed issue and thats what delayed this week's blog
 -	Hmm so both the **goals from last week** kinda **failed**. <br>
     ◘ It was hard to cut off *phone usage* after waking up and I didn’t feel like forcing myself.<br>
     ◘ Now coming to the goal of using a **pomodoro** timer,
-    <br>I tried using pomodoro but as it happened, 
+    <br>I tried using pomodoro but as it happened, <br>
     
-<br>I would usually continue working past the timer without noticing it or I would get distracted regardless of it. <br>
-
+    I would usually continue working past the timer without noticing it or I would get distracted regardless of it. <br>
+    
     But I still want to continue using it properly in the future, it was in a way slightly helpful, I need to optimize its usage in accordance with my behaviours.
+
 -	However, this week was truly epic in terms of **health and fitness** <br>
     ◘ As I continued waking up at around 5:30am every day, and went for a run instead of walks. 😎 <br>
     ◘ I ran like 9kms in total this week, I will attach screenshot below for additional flex 😎🖕 
