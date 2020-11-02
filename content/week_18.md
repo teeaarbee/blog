@@ -63,7 +63,8 @@ tman best as always 😭 love him
 
 https://youtu.be/ejGDAUKSg3g?list=LL
 
-priyal dhuri gave me a shoutout on his insta story so main v kr rha hu uska video share Ehsaan barabar 🤝
+Priyal dhuri gave me a shoutout on his insta story so main v kr rha hu uska video share Ehsaan barabar 🤝
+<br>I am kidding ofc we know each other from 2017 😤😤
 
 https://youtu.be/B-F319b5SuQ?list=LL
 
