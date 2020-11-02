@@ -13,8 +13,9 @@ This past week was .. I don’t know it sort of changed my life tbh
 -	I will go ahead and share my fitness shid before moving on with what changed me<br>
 o	I was able to reach my weekly goal of 10km running this week. Screenshot below <br>
 <img src=" https://i.postimg.cc/nncD0GwM/Screenshot-20201101-072842034.jpg" alt="caption" style="max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" ><br>
--	Aight now that we are done with that I will move to the next big thing of this week and probably the only significant thing happened this week, which sort of changed me <br>
-◘ So it is related with forgiving and letting go of the past, I know the concept is very popular but I sort of did not find it applicable for me.
+-	Aight now that we are done with that I will move to the next big thing of this week and probably the only significant thing happened this week, which sort of changed me 
+
+  So it is related with forgiving and letting go of the past, I know the concept is very popular but I sort of did not find it applicable for me.
 
   There is something so good about holding grudge and being angry at someone, I mean movies kinda portrays it as a very common thing and I was sold on the idea of it too, atleast for a while for 1.5 years to be precise.
 
