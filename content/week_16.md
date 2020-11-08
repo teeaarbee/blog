@@ -138,9 +138,6 @@ https://www.instagram.com/p/CGUgcLxFFRB/
 https://www.instagram.com/p/CGU3XPwDQWZ/
 
 
-https://www.instagram.com/p/CGbBvj5A2HS/
-
-
 https://www.instagram.com/p/CGNViSSlgOX/
 
 
