@@ -44,7 +44,7 @@ I mean wouldn’t you tell your friend if you knew about a hole in the ground, i
 
 However this is only applicable on a philosophical level, I mean if it’s a small thing then we are better off telling the other person.
 Also I realized how paradoxical this is, its like me saying y’all to not say anything. Geddit ? XD
-I am doing the opposite of what I am saying sort of. Ok don’t with my paradoxical oppinioons now back to the normal blog. 
+I am doing the opposite of what I am saying sort of. Ok don’t with my paradoxical oppinions now back to the normal blog. 
 
 ##Social Media updates 
 Lmao I lost my momentum of posting after I got busy with lot of work this week, also shitposting uselessly didn’t seem appropriate enough idk why.
@@ -56,11 +56,11 @@ Will share results next week
 ##My Favourites from the Week 
 ###Blog/Article 📑
 
-[20% Rule: How To Easily Find Hours Per Day For Learning](https://kutt.it/h9nGKC)
+[20% Rule: How To Easily Find Hours Per Day For Learning](https://kutt.it/h9nGKC) by Michael Simmons
 
-[India’s poor hygiene standard turned beneficial to fight Covid-19: Study](https://kutt.it/wkhQlo)
+[India’s poor hygiene standard turned beneficial to fight Covid-19: Study](https://kutt.it/wkhQlo) by deccan herald
 
-[Staying Productive on Distracted Days](https://kutt.it/ly5ppg)
+[Staying Productive on Distracted Days](https://kutt.it/ly5ppg) by Carl newport
 
 ###VIDEOS 📺
 
