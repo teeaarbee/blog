@@ -1,5 +1,5 @@
 ---
-title: Week 17 – usual none work week 📺
+title: Week 17 – Running is back 
 date: "2020-10-25"
 cover: '../static/images/pexels-huỳnh-đạt-2251206.jpg'
 category: Weekly Highlights
@@ -135,8 +135,8 @@ These are the ones I listened to
 | Will update it back soon once the plugin is fixed 😢
 [More info](https://developers.facebook.com/docs/instagram/oembed)
 
-Hopefully this will be fixed by next week 😣 
-<br>Update<br>
+Hopefully this will be fixed by next week 😣 <br><br>
+<br>Update<br><br>
 
 https://www.instagram.com/p/CGj4GmXA1j4/
 
