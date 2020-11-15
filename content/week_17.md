@@ -1,5 +1,5 @@
 ---
-title: Week 17 – usual none work week 📺
+title: Week 17 – Running is back 
 date: "2020-10-25"
 cover: '../static/images/pexels-huỳnh-đạt-2251206.jpg'
 category: Weekly Highlights
@@ -18,11 +18,12 @@ Still dealing with the insta embed issue and thats what delayed this week's blog
 -	Hmm so both the **goals from last week** kinda **failed**. <br>
     ◘ It was hard to cut off *phone usage* after waking up and I didn’t feel like forcing myself.<br>
     ◘ Now coming to the goal of using a **pomodoro** timer,
-    <br>I tried using pomodoro but as it happened, 
+    <br>I tried using pomodoro but as it happened, <br>
     
-<br>I would usually continue working past the timer without noticing it or I would get distracted regardless of it. <br>
-
+    I would usually continue working past the timer without noticing it or I would get distracted regardless of it. <br>
+    
     But I still want to continue using it properly in the future, it was in a way slightly helpful, I need to optimize its usage in accordance with my behaviours.
+
 -	However, this week was truly epic in terms of **health and fitness** <br>
     ◘ As I continued waking up at around 5:30am every day, and went for a run instead of walks. 😎 <br>
     ◘ I ran like 9kms in total this week, I will attach screenshot below for additional flex 😎🖕 
@@ -134,8 +135,8 @@ These are the ones I listened to
 | Will update it back soon once the plugin is fixed 😢
 [More info](https://developers.facebook.com/docs/instagram/oembed)
 
-Hopefully this will be fixed by next week 😣 
-<br>Update<br>
+Hopefully this will be fixed by next week 😣 <br><br>
+<br>Update<br><br>
 
 https://www.instagram.com/p/CGj4GmXA1j4/
 

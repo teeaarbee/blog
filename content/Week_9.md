@@ -13,7 +13,7 @@ This week was a lot fun, and by fun i mean i discovered and explored a new Note 
     <figcaption></figcaption>
     <audio
         controls
-        src="https://dark-lake-b8a7.trb.workers.dev/6:/BruhSoundEffect2.mp3">
+        src="https://raw.githubusercontent.com/teeaarbee/blog/master/static/sound/BruhSoundEffect%232.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>

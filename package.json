@@ -38,7 +38,7 @@
     "gatsby-plugin-sitemap": "^2.2.20",
     "gatsby-plugin-social9-socialshare": "^1.0.3",
     "gatsby-plugin-twitter": "^2.3.12",
-    "gatsby-remark-autolink-headers": "^2.1.18",
+    "gatsby-remark-autolink-headers": "^2.1.19",
     "gatsby-remark-custom-blocks": "^2.1.21",
     "gatsby-remark-embedder": "^4.0.0",
     "gatsby-remark-images": "^3.1.31",

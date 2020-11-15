@@ -27,6 +27,7 @@ module.exports = {
     `gatsby-remark-embedder`,
     `gatsby-plugin-social9-socialshare`,
     `gatsby-plugin-twitter`,
+    `gatsby-remark-autolink-headers`,
     {
       resolve: 'gatsby-plugin-social9-socialshare',
       options: {
@@ -35,6 +36,16 @@ module.exports = {
         defer: true,
         content: '71eccd5bfc88461da6c6c6dd583ce860',
         src: 'socialshare.min.js',
+      },
+    },
+    {
+      resolve: `gatsby-remark-table-of-contents`,
+      options: {
+        exclude: 'Table of Contents',
+        tight: false,
+        fromHeading: 1,
+        toHeading: 6,
+        className: 'table-of-contents',
       },
     },
     {

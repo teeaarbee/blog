@@ -116,40 +116,22 @@ DO a hard refreshing the page (Ctrl+Shft+R - on windows machine & cmd + option +
 https://www.instagram.com/p/CGZRexWFmV-
 
 
-
 https://www.instagram.com/p/CGeJLJSl8eX
-
 
 
 https://www.instagram.com/p/CGcYul7F6Zx/
 
 
- 
-
-
 https://www.instagram.com/p/CGZstbIFVLV/
-
 
 
 https://www.instagram.com/p/CGXNgLjluwR/
 
 
-
 https://www.instagram.com/p/CGUgcLxFFRB/
-
-
-
-https://www.instagram.com/p/CGUgcLxFFRB/
-
 
 
 https://www.instagram.com/p/CGU3XPwDQWZ/
-
- 
-
-
-
-
 
 
 https://www.instagram.com/p/CGNViSSlgOX/
@@ -169,7 +151,7 @@ Thanks for reading my blog till the very end, I am quite excited and concerned a
 **Let’s see how life unfolds in the coming weeks.** 
 
 
-***Subscribe to get these blogs delivered to you email inbox***
+**Subscribe to get these blogs delivered to you email inbox**
 
 ###[SUBSCRIBE HERE](https://teeaarbee.com/#blog)
 
