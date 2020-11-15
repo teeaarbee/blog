@@ -125,7 +125,9 @@ Before you vote here are the pros and cons of moving meme section of a new page 
 
 Heres an example featuring this week's memes: [MEME Trial 01](https://kutt.it/trbweek20memes) 👈 Click here and check the new format before voting
 <br>
-Vote here : 
+
+[Vote here](http://www.strawpoll.me/23532434) : 
+
 <iframe src="http://www.strawpoll.me/embed_1/23532434" style="width:680px;height:300px;border:0;">Loading poll...</iframe>
 
 ----
