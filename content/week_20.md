@@ -33,7 +33,7 @@ Kinda Sad how a lot of scientists / knowledge workers were never able to share t
 Diwali isn’t Diwali without firecrackers 🤐
 
 
-PS: I haven’t burst any crackers for like 7 years now, but it’s kinda sad to see a lot many kids who wanted to burn crackers this year, were not allowed to 😣 idk I just feel bad for them. 
+PS: I haven’t burnt any crackers for like 7 years now, but it’s kinda sad to see a lot many kids who wanted to burn crackers this year, were not allowed to 😣 idk I just feel bad for them. 
 
 ##Social Media updates 
 Posted a Diwali special meme which I had planned like a week ago hehe
