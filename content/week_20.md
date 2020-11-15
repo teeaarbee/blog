@@ -14,12 +14,6 @@ Happy Diwali to everyone reading, even though Diwali was yesterday…
 This week I need your opinion on something Big[related to these weekly blogs]. You can find the poll along with the details below [meme section.](https://blog.teeaarbee.com/archives/week-20#cons)
 
 
-```toc
-exclude: Table of Contents
-from-heading: 2
-to-heading: 6
-```
-
 
 ## Personal Highlights 
 -	I **procrastinated** a bit this week with lot of my important work, but one thing that went well was my morning routine. I went for run almost everyday and read around 10 pages everyday.
