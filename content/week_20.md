@@ -111,7 +111,12 @@ https://www.instagram.com/p/CHX6mjSlwyX/
 https://www.instagram.com/p/CHVPCAyH9wU/
 
 <br><br>
-Now comes the time for the important question to the readers of the blog which I have been wanted to ask for a while now, so what I was saying is 👉👈 should I move the memes to a separate page where its arranged much nicely and can be accessed faster ?
+Now comes the time for the important question to the readers of the blog which I have been wanting to ask for a while now, so what I was saying is 👉👈
+
+
+Q. should I move the memes to a separate page where its arranged much nicely and can be accessed faster ?
+
+
 Before you vote here are the pros and cons of moving meme section of a new page where you will have to visit manually every week after reading the blog here.
 
 ###Pros: 
