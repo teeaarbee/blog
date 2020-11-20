@@ -88,13 +88,9 @@ I listened to the first part of PBTB ft. Prakhar k pravachan, will listen to the
 Also I found out that **listening to podcast** while running is kinda **much better** than listening to summaries of books because those summaries are very densely filled with lot of key concepts and so if we don’t pay full attention consistently we might miss out on something, whereas a podcast is much spaced out and we can listen to them araam se.
 ###Memes/Edits/Interesting stuff 🐒
 
-https://www.instagram.com/p/CHmgFoVl6V7/
-
 https://www.instagram.com/p/CHlB8ollCOu/
 
 https://www.instagram.com/p/CHmrlGgHFt0/
-
-https://www.instagram.com/p/CHkQhSdFhDU/
 
 https://www.instagram.com/p/CHhwDAEpyEf/
 
@@ -105,8 +101,6 @@ https://youtu.be/oBweJV9PBUA?list=LL
 https://www.instagram.com/p/CHfTcxaFO48/
 
 https://www.instagram.com/p/CHaqw52FRnC/
-
-https://www.instagram.com/p/CHX6mjSlwyX/
 
 https://www.instagram.com/p/CHVPCAyH9wU/
 
