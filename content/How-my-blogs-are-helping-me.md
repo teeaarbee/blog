@@ -1,5 +1,5 @@
 ---
-title: How blogging is helping me 😳
+title: How Blogging Is Helping Me 😳
 date: "2020-11-20"
 cover: '../static/images/pexels-le-vy-668553.jpg'
 category: Update Blogs
