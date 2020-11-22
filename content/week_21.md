@@ -166,7 +166,7 @@ The next thing in my list was working out but that I will shift to next week
 
 And my goal for this week will be to WRITE, 
 
-Thanks to arpit bala[Podcast], I knew about his advice of free writing but the fact that he writes everyday motivated me to do the same.
+Thanks to Arpit Bala(Podcast), I knew about his advice of free writing but the fact that he writes everyday motivated me to do the same.
 
 However, all I will be writing will be my journal and I will try to write it right after I finish my dinner around 8. So that I can stick to it for longer. 
 
