@@ -2,7 +2,7 @@
 title: Welcome to my New Blogsite
 date: "2020-06-20"
 cover: '../static/images/man-sitting-on-edge-facing-sunset-915972.jpg'
-category: Personal
+category: Update Blogs
 tags:
   - Announcement Blogs
   - FirstPost
