@@ -63,13 +63,13 @@ max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
 
 ##My Favourites from the Week 
 ###Blog/Article 📑
--	[Speed matters: Why working quickly is more important than it seems](https://jsomers.net/blog/speed-matters)
+-	[Speed matters: Why working quickly is more important than it seems](https://kutt.it/oHh0KX)
 
 This was my fav blog from the week, I instantly realized why I was procrastinated and hurried to get my pending work completed once again thanks to satendra for sending this.
--	[How Experts Figure What to Focus On](https://jamesclear.com/getting-simple)
+-	[How Experts Figure What to Focus On](https://kutt.it/at7kNE)
 
 How I am tryna be 🤑
--	[3 Surprising Reasons Why You Need to Rediscover Slow Growth](https://jamesclear.com/slow-growth)
+-	[3 Surprising Reasons Why You Need to Rediscover Slow Growth](https://kutt.it/kcM0w7)
 
 Came across this when i thought of entering matt deivela's slow growth course competition 😓
 
