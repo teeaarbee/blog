@@ -12,14 +12,6 @@ This last week was quite emotionally challenging, had a bag of mixed situations 
 
 I had almost planned to not write this week but then again I like writing when I am anxious so I guess this week’s blog will be a good … a good I don’t know the word something which I can take a look at future and try understanding how my mind was and how It changed.
 
-```toc
-exclude: Table of Contents
-from-heading: 2
-to-heading: 6
-```
-
-
-
 ## Personal Highlights
 - A lot honestly and the sad part is I can't document any of it publically.
     <br>Cant trust internet enough, which brings me to one of the biggest thing I did this week and that was to wipe my multiple cloud storage accounts clean I used to backup all sorts of stuffs from everywhere online without even taking a look at them, my initial plans were to see them in the future, but back then I didn’t know about much about the internet and how there is always something to occupy our time online.
