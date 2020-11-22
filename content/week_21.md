@@ -176,7 +176,7 @@ I am not new to writing but I have lost my habit of writing journal everyday so 
 
 Thank you for reading this week’s highlight, Read the other update non-weekly blog too which I wrote earlier this week titled :  [How Blogging Is Helping Me 😳](https://blog.teeaarbee.com/archives/how-my-blogs-are-helping-me)
 
-Also if you want to check other memes from this week then [click here]()
+Also if you want to check other memes from this week then [click here](https://kutt.it/trbweek21memes)
 
 Also Subscribe to get these blogs delivered to you email inbox
 
