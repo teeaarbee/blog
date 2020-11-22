@@ -170,7 +170,7 @@ Thanks to arpit bala[Podcast], I knew about his advice of free writing but the f
 
 However, all I will be writing will be my journal and I will try to write it right after I finish my dinner around 8. So that I can stick to it for longer. 
 
-I am not new to writing but I have lost my habit of writing journal everyday so it will be nice to get started again. I hope free-writting journal finally awakens the writing ka keeda in me which will then result in me writing topic-based blogs hehe 😁
+I am not new to writing but I have lost my habit of writing journal everyday so it will be nice to get started again. I hope free-writing journal finally awakens the writing ka keeda in me which will then result in me writing topic-based blogs hehe 😁
 
 ----
 
