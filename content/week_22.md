@@ -12,7 +12,7 @@ This month started with 1st being a Sunday and so
 This is the first time that a month has 5 weekly blogs XD 
 
 Before starting this month’s last blog,
-I just wanted to quickly acknowledge that the last few weeks / months has been great for me aka 
+I just wanted to quickly acknowledge that the last few weeks / months have been great for me aka 
 <br>I have been very happy and not feel anxious or any negative emotions like that.
 
 I do understand that life has ups and downs, and I feel like uncertainty can hit me any time like anyone else at any time so before things go down I just wanted to say I am grateful for the good things thus far. 
