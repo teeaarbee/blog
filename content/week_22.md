@@ -149,7 +149,7 @@ But maybe one day I ll understand.
 ###Apps 📱 
 > [ShareX](https://kutt.it/ApByJS)
 
-This is only for windows pc users and people who are into blogging and shizz, it helps to create instant links for images and even shorten url using almost any popular service. Absolutely love this spftware and I discovered this last week again thanks to G.rohit !!!
+This is only for windows pc users and people who are into blogging and shizz, it helps to create instant links for images and even shorten url using almost any popular service. Absolutely love this spftware and I discovered this last week again thanks to [G.rohit](https://www.instagram.com/uiux.rohit/) !!!
 It’s a time saver basically and I truly appreciate softwares and tech that helps me reduce my time on any task that I am doing.
 
 ###Songs 🎶
