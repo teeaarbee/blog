@@ -39,7 +39,7 @@ So I decided to do my writing in the mornings/afternoon from now on and not keep
 
 I am having a lot of fun reading [Immortals of meluha](https://amzn.to/3fJUrCi) and like I said in my insta story this is my first-time reading fiction in a really long time. 
 
-And I did not expect to find myself so much engrossed into the story, but I did. I have completed first 4 chapters of the book, I tink it has like 24chapters, 
+And I did not expect to find myself so much engrossed into the story, but I did. I have completed first 4 chapters of the book, I think it has like 24chapters, 
 
 I think I’ll finish it before Christmas.
 
@@ -103,7 +103,7 @@ https://twitter.com/teeaarbee/status/1331946303048192003
 
 For the rest you can go and check my twitter.
 
-Also thanks a lot to [Shubham thakur](https://kutt.it/j82mt7) for designing these cute looking illustrations for me, imma use this for as my blog's icon image for now.
+Also thanks a lot to [Shubham thakur](https://kutt.it/j82mt7) for designing these cute looking illustrations for me, imma use this as my blog's icon image for now.
 
 <img src="https://i.imgur.com/hisv02Z.png" alt="TRB XD" style=" max-width: 250px;width: 50%; height: auto; inline-block; margin: 10px 0;" >
 
