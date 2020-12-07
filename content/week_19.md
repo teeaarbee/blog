@@ -29,8 +29,6 @@ So If I cant think of thoughts now, I will have enough time to write about it to
 
 ##Thoughts from the past week
 
-https://twitter.com/memeanshi/status/1323473584925237248
-
 Saw this meme a few months ago, now my brain associates the US president with this XDDD <br>
 <img src="https://i.postimg.cc/C5vyYsXs/joe-biden.jpg" alt="JOE BIDEN" style=" max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
 

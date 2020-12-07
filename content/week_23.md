@@ -165,7 +165,7 @@ This last video has a special place in my heart 🤧
 Should I share about big personalities and not just small content creators ? lemme know in comments / DMs
 
 ###Apps 📱 
-> [Listary](https://cutt.ly/ThQkpaN)
+> [Listary](https://kutt.it/YehcYG)
 
 This is a very powerful file and application search utility for windows. 
 <br>It’s basically like Alfred for mac, which Ali abdal keeps promoting 🤬
