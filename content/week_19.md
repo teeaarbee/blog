@@ -29,6 +29,8 @@ So If I cant think of thoughts now, I will have enough time to write about it to
 
 ##Thoughts from the past week
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/teeaarbee?ref_src=twsrc%5Etfw">@teeaarbee</a> in every &quot;thoughts from last week&quot; section of his blog : <a href="https://t.co/rIZMGgfgUX">pic.twitter.com/rIZMGgfgUX</a></p>&mdash; memeanshi (@memeanshi) <a href="https://twitter.com/memeanshi/status/1323473584925237248?ref_src=twsrc%5Etfw">November 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Saw this meme a few months ago, now my brain associates the US president with this XDDD <br>
 <img src="https://i.postimg.cc/C5vyYsXs/joe-biden.jpg" alt="JOE BIDEN" style=" max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
 
