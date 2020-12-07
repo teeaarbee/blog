@@ -124,8 +124,6 @@ DO a hard refreshing the page (Ctrl+Shft+R - on windows machine & cmd + option +
 
 https://www.instagram.com/p/CGHhB58lmK5
 
-https://www.instagram.com/p/CGHp5fBlC7l
-
 https://www.instagram.com/p/CGBi9b4FYY8
 
 https://www.instagram.com/p/CGFnMHRludT
