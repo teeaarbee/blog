@@ -122,8 +122,6 @@ https://www.instagram.com/p/CHSJcHjFeYx/
 
 https://youtu.be/UDZKoAQi3_0?list=LL
 
-https://www.instagram.com/p/CHPYbWsF154/
-
 https://www.instagram.com/p/CHNOBlRlP_y/
 
 https://www.instagram.com/p/CHK0HxEFgmk/
