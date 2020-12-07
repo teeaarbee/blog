@@ -10,7 +10,7 @@ tags:
 
 This week was one of the busiest weeks, that I have had in a while.
 
-And not the too many work type of busy, but busy as in I had work every day, 
+And not the lot of work type of busy, but busy as in I had work every day, 
 <br>Tasks related to the video editing project that I was completing. 
 
 I have almost finished it, I will be done with it by Tuesday and then I will be a free man, I am really excited to transition to this new phase of me not having to think about it. Because even though it was related to editing, I wasn’t really enjoying it.
@@ -40,7 +40,7 @@ This is the most fun I have ever had while reading [I don’t remember much from
 
 But for real though I really did not expect **reading fiction** to be this great, this switch from non-fiction to fiction was like having a games period in school ka time table :P 
 
-I read 14 chapters and around 170 pages which Is def more than my goal of reading 5 paegs every day when I first started reading after a while, this October.
+I read 14 chapters and around 170 pages which Is def more than my goal of reading 5 pages every day when I first started reading after a while, this October.
 
 But the words are bigger and more spaced out in this book though. Still it doesn’t change the fact that I have been having a lot of fun reading it.
 
@@ -49,7 +49,7 @@ But the words are bigger and more spaced out in this book though. Still it doesn
 Meditated every day for almost 10Mins, Not really making any visible progress but I don’t expect anything from it. I just do it coz its cool among productive people 😎💅. 
 <img src="https://i.imgur.com/8qg4n28.png" alt="med 20" style=" max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
 
-They say you will start getting the befits once you learn **How to meditate** which I am sure I will learn if I continue trying every day, let’s see where meditating or at least trying to meditate leads me 🤧 
+They say you will start getting the benefits once you learn **How to meditate** which I am sure I will learn if I continue trying every day, let’s see where meditating or at least trying to meditate leads me 🤧 
 
 I tried a new app for only a day, it was nice but I like calm more, I will however try out different apps after I am done with the 30days introduction course in calm.
 
