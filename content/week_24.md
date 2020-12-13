@@ -13,7 +13,7 @@ Sorry for the click-bait title 🤲
 But yes I did work for them, in some sense XD
 <br>So like I said last week I was busy, its because I was editing a video for their youtube channel and that deal was also the kind of reason why I backed out from being active on my main insta page back in October.
 
-Initially I was supposed to edit 5 videos for them and so I thought it’d be better if I don’t commit to other things. But as it turned out it was a rather slow process and the ambifuity of the project made me not distribute my time evenly and that is also the reason as to why I think I wont be editing anymore videos for them.
+Initially I was supposed to edit 5 videos for them and so I thought it’d be better if I don’t commit to other things. But as it turned out it was a rather slow process and the ambiguity of the project made me not distribute my time evenly and that is also the reason as to why I think I wont be editing anymore videos for them.
 
 Keep reading the blog If u want to know more about it 😏
 
