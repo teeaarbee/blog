@@ -72,11 +72,11 @@ Also I kinda made a weekly progress spreadsheet, which I will maintain and share
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_gSHeI3fKAjxvwx3Q6x6c6VGTKuQl3zIFYRhEOAGXa7qvjUVyhDjhxfQv-eWH2qs5A0Zdkyz96f2-/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"width="100%" height="300"></iframe>
 
-Oh and I also played cyberpunk 2077 for an hour or so idk I lost touch from gaming so didn’t quote enjoy it, also because the game was giving me low fps later found out its because I have nvidia studio drivers installed and not gaming drivers. 
+Oh and I also played cyberpunk 2077 for an hour or so idk I lost touch from gaming so didn’t quite  enjoy it, also because the game was giving me low fps later found out its because I have nvidia studio drivers installed and not gaming drivers. 
 <br>I will give it another try this week and let you know in the next week’s blog, i.e., my thoughts on the game. 
 
 ##Thoughts from the past week
-We often see happiness as a never attainable thing and a part of me kinda belive in it somewhat at times, but then I have spent quite some time thinking about it and all my thoughts were brought back after I listened to [Joe Roegan naval podcast [linked below]](https://blog.teeaarbee.com/archives/week-24#podcast-)
+We often see happiness as a never attainable thing and a part of me kinda believe in it somewhat at times, but then I have spent quite some time thinking about it and all my thoughts were brought back after I listened to [Joe Roegan naval podcast [linked below]](https://blog.teeaarbee.com/archives/week-24#podcast-)
 
 Where naval says if you think you are smart you should figure out ways to be happy and not see it as something smart people cant have, and I remember saying the exact same thing to myself earlier this year and it was after that I started realizing how happy I have always been but for some weird reason I kinda ignored it and tried to look sad.
 
@@ -192,7 +192,7 @@ Also did a terrible job of editing it imo, mainly because I did not enjoy ☹
 ##Goal(s) for the next week 🥅
 My goal for the next week will be to dedicate the first hour of my day everyday to learning something new.
 
-Because its December now, so going for a run way too early in the morning doesn’t make much such, so I ll instead sit infront of my computer and elarn something and then go for a run at around 6:30-7:00Pm.
+Because its December now, so going for a run way too early in the morning doesn’t make much such, so I ll instead sit infront of my computer and learn something <br> and then go for a run at around 6:30-7:00Pm.
 
 Usually I spend this time on my phone, but I will try and eliminate it from this week.
 
