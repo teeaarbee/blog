@@ -45,7 +45,8 @@ As usual I meditated every day for around 10mins, it  has started feeling quite 
 
 
 -	**FITNESS UPDATE**
-This kinda took a weird hit idk why[actually I do its coz of my sleep] 😶
+
+This kinda took a weird hit in terms of consistency idk why[actually I do its coz of my sleep] 😶 Also the app did not fuction properly tuesday, I ran the usual 3km and its showed only 2km 😤😤
 
 <img src="https://i.imgur.com/VhF1kM4.png" alt="run 24" style=" max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
 
@@ -141,19 +142,21 @@ Came across this fun tool which lets you create handwritten notes from the text 
 ###Songs 🎶
 
 <iframe src="https://open.spotify.com/embed/track/1fnxBJwyv0TPYeIHppuANo" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<br><br>
 
 <iframe src="https://open.spotify.com/embed/track/1tWal0LdqC7PAYRsjAwvvg" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<br><br>
 
 <iframe src="https://open.spotify.com/embed/track/0nA4janVgNTjeS9pwwjjM2" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<br><br>
 
 <iframe src="https://open.spotify.com/embed/track/2DDDzxzFpgTQx4AEKRO3zz" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ###Podcast 🎙
 -	<iframe src="https://open.spotify.com/embed-podcast/episode/3ijkVfaht5kcFPvHcCbYYD" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
 Listened to this in the first half of week was quite happy to see a lot of similarities between his mental models and mind XD also varun mayya shares some of it too 😌🤝
 
-
+<br>
 -	<iframe src="https://open.spotify.com/embed-podcast/episode/7sGWc9szWC1fNT4vNW6jO6" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 The ending of this podcast is very cyberpunk 2077ish 💀🤖 XD
