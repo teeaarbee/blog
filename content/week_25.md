@@ -16,8 +16,9 @@ Today was supposed to be the deadline but it got shifted to tomorrow which means
 So it was a nice short week which started off with me being free but then later on I was asked if I wanted to edit another video[different style], I had planned to say no for any other video [made that evident in last week’s blog], 
 
 but I said yes because I kinda wanted a new phone so 🤧
-<br>For the first half of the week before the thought of buying a phone came in my mind I was as happy as a [phrases are cringe bruh, totally not relatable, 👎]
-<br>Yeah so I was very happy and content with myself, but then once the thought came in my mind I just kept thinking about it, researching about new phone and shizz 😖😖
+<br>For the first half of the week before the thought of buying a phone came in my mind I was as happy as a [phrases are cringe bruh, totally not relatable👎]
+
+Yeah so I was very happy and content with myself, but then once the thought came in my mind I just kept thinking about it, researching about new phone and shizz 😖😖
 <br>Will write about my phone buying journey in the future blog after I get my money from them [which is btw 1-2months away]
 
 -	**WRITING UPDATE**
