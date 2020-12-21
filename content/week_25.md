@@ -48,12 +48,12 @@ Uh as usual
 <img src="https://i.imgur.com/HuXYjG5.png" alt="run25" style="
 max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
 
-Oh wow i dint realize before taking this ss, This is my highest weekly distance, ever since i started back in oct.
+Oh wow i didn't realize before taking this ss, This is my highest weekly distance, ever since i started back in oct.
 <br>Damn 🤩
 
 -	**MUSIC UPDATE**
 
-I have had the most fun this week playing keyboard, I am kinda getting get at it and also I was playing the things which I had already completed back in feb so it felt much nicer. I will get back to where I left by mid-jan , after that It will be interesting to see how much I enjoy.
+I have had the most fun this week playing keyboard, I am kinda getting good at it and also I was playing the things which I had already completed back in feb so it felt much nicer. I will get back to where I left by mid-jan , after that It will be interesting to see how much I enjoy.
 
 <img src="https://i.imgur.com/MMcnICc.png" alt="music25" style="
 max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
