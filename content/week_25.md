@@ -166,7 +166,7 @@ https://youtu.be/5JMgI236Ndk?list=LL
 
 Well what can I say except, if I were to make a video on the topic I would say exactly the same things and also love all the dawkins related stuff in the video 😌👌
 
-Every time I see someone separating memes from the “haha funny” sector I feel relived XD 
+Every time I see someone separating memes from the “haha funny” sector I feel Relieved XD 
 
 ###Creators 🤹🏻
 
