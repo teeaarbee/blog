@@ -116,8 +116,6 @@ One thing that I learnt from this is: **Love** is a **verb**
 
 ###Memes/Edits/Interesting stuff 🐒
 
-https://www.instagram.com/p/CHSR51dFOrQ/
-
 https://www.instagram.com/p/CHSJcHjFeYx/
 
 https://youtu.be/UDZKoAQi3_0?list=LL
