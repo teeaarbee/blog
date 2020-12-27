@@ -7,7 +7,7 @@ tags:
   - Weekly Blogs 
   - Recommendations 
 ---
-So here we are the last weekly highlight of the year 2020
+So here we are, **The last weekly highlight** of the year 2020
 
 Not sure if this is the last blog of the year though, because I am planning to write a year in review type of blog like the one which [I wrote last year](https://teeaarbee.blogspot.com/2020/01/personal-rewind-2019.html).
 
