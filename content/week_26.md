@@ -1,5 +1,5 @@
 ---
-title: Week 26 – I might get hired 
+title: Week 26 – I Might Get Hired  
 date: "2020-12-27"
 cover: '../static/images/pexels-energepiccom-288477.jpg'
 category: Weekly Highlights
