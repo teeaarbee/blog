@@ -133,7 +133,7 @@ https://twitter.com/teeaarbee/status/1341334138398261255
 And then he actually contacted me on twitter 😳
 
 
-Aaaaaaand I showed him my work, which Ig he liked and asked me if I wanted to join full time and lead a new video editor team 
+Aaaaaaand I showed him my work, which Ig he liked and asked me if I wanted to join full time and lead a new video editing team 
 
 Then we talked on call [confidential] XD jk there was nothing like that so I ll have to edit a sample video for him and if he likes it, he will hire me.
 
