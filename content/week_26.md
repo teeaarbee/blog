@@ -85,7 +85,7 @@ https://youtu.be/0zfEBGUV3js?list=LL
 vdf Netflix bought son of abhish 😳 
 
 ###Apps 📱 
-> (Kauna)[https://kutt.it/uEjFpY][For Windows]
+> [Kauna](https://kutt.it/uEjFpY) [For Windows]
 
 It’s a nice real time music visualizer.
 <br>I used this app to show visuals of the audio on my insta live stream. 
