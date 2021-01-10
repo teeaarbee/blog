@@ -135,8 +135,6 @@ https://www.instagram.com/p/CG3-5i-FnFo/
 
 https://www.instagram.com/p/CG2fUS8J_mv/
 
-https://www.instagram.com/p/CHAsXwnFTjr/
-
 ----
 ##Goal(s) for the next Month
 I don’t have any particular goals for the next week, taking a week off from goal chasing.
