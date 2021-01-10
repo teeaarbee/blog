@@ -1,5 +1,5 @@
 ---
-title: Week 28 – New Job + 2021 Wish List 
+title: Week 28 – New Job 😨 
 date: "2021-01-10"
 cover: '../static/images/work1n.png'
 category: Weekly Highlights
