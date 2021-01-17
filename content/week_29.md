@@ -53,7 +53,7 @@ I did practise keyboard almost everyday but I don’t think I had as much fun as
 <img src="https://i.imgur.com/j0RFVhE.png" alt="keyboard29" style="
 max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
 
-This week listen to me me butcher two of my all time favourite songs 😭😭😭
+This week listen to me butcher two of my all time favourite songs😭
 
 Careless Wisper
  <figure>
@@ -77,6 +77,7 @@ Last Christmas
     </audio>
 </figure>
 
+Maybe someday I will get bettre 🤧🤘
 -	**SLEEP UPDATE**
 
 <img src="https://i.imgur.com/UVqOL91.png" alt="sleep29" style="
@@ -91,7 +92,7 @@ Which brings us to
 Q. Why did you have backpain TRB? 
 <br>Itna Jayda kaam de dea kya unhone 🥺
 	
-- And to which I would said not really it was just my first week so yes work did feel a bit overwhelming esp doing the same thing everyday, which I am not very mush used to… 
+- And to which I would said not really it was just my first week so yes work did feel a bit overwhelming esp doing the same thing everyday, which I am not very much used to… 
 
 The next 4 months are going to be challenging for sure but I am sure I will very soon adapt to it and will become more efficient.
 Well that was the work part now coming to the co-worker part
@@ -211,7 +212,8 @@ Didn’t finish any podcast but I did listen to the audio book [Tools of titans]
 I actually listed to a lot of great quotes in The tools of titans audiobook but forgot to note them down ☹ 
 <br>I guess I will share them in the future 
 
-For now here’s a series of tweet by @G_S_Bhogal
+For now here’s a series of tweet by @G_S_Bhogal 
+<br>Thanks to satendra once again for sharing this with me 😌
 
 https://twitter.com/G_S_Bhogal/status/1225561131122597896
 
