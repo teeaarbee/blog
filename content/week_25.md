@@ -233,7 +233,6 @@ https://www.instagram.com/p/CI8lH90l2Bs/
 
 https://www.instagram.com/p/CJBlHjWFmsB/
 
-https://www.instagram.com/p/CJAjhA_F4ag/
 
 #More memes from the week: [Here](https://kutt.it/trbweek25memes)
 
