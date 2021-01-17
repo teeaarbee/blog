@@ -78,6 +78,11 @@ Last Christmas
 </figure>
 
 -	**SLEEP UPDATE**
+
+<img src="https://i.imgur.com/UVqOL91.png" alt="sleep29" style="
+max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
+Forgot to wear band on tuesday 👆
+
 Honestly I think sleep is what saved me from burning out this week, I tried to sleep 7-8 hours everyday and even slightly improved my time. I am not yet back at sleeping at 9 but I was able to bring it down to 10pm and sleeping did really help me recover from headache and backpain.
 
 

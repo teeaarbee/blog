@@ -154,8 +154,6 @@ https://www.instagram.com/p/CH3ULIFlqQX/
 max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
 By [Hubli](https://www.instagram.com/sourabh_316/)
 
-https://www.instagram.com/p/CHZgmZblM0Z/
-
 
 #More memes from the week: [Here](https://kutt.it/trbweek21memes)
 
