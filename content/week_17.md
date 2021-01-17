@@ -154,8 +154,6 @@ https://www.instagram.com/p/CGnIb5-lJTm/
 
 https://www.instagram.com/p/CGmXRMthvrX/
 
-https://www.instagram.com/p/CGkiGpTlolL/
-
 ----
 ##Goal(s) for the next week
 -	Organize files and folders in pc, 1-2 folders a day and slowly start building a tree like hierarchy for all files on pc. 
