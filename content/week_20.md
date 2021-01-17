@@ -92,8 +92,6 @@ https://www.instagram.com/p/CHlB8ollCOu/
 
 https://www.instagram.com/p/CHmrlGgHFt0/
 
-https://www.instagram.com/p/CHhwDAEpyEf/
-
 https://www.instagram.com/p/CHmOw33Jmxk/
 
 https://youtu.be/oBweJV9PBUA?list=LL
