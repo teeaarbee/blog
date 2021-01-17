@@ -178,7 +178,7 @@ https://twitter.com/jack/status/1348139031599595522
 They are going to delete this song because its on top charts and its way too edgy for them[band] and I kinda agree but if you like edgy songs then give this a listen maybe before they remove it from spotify
 <br><br>
 
-<iframe src="https://open.spotify.com/embed/track/1D9kLvE4SBX6EOG8uJa7Vy" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/1JNmp9ve7EHLzD2ffJrzw1" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <iframe src="https://open.spotify.com/embed/track/51Fjme0JiitpyXKuyQiCDo" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -204,6 +204,7 @@ Came across this Ankur Warikoo recently, Thanks to [@Anosher](https://www.youtub
 Very tired rn plus its already late [11:15pm] 🥶 
 <br>Will update memes here tomorrow check it out if you want for now watch the recommended yt videos maybe 😤
 
+###Update: Finally added the memes on 16/01/21 XD: [Here](https://kutt.it/trbweek28memes)
 ----
 
 Also I forgot to share this podcast that I did with [@Anosher](https://www.youtube.com/c/Anosher/videos) 2 weeks ago XD 
