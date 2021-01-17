@@ -204,7 +204,7 @@ Came across this Ankur Warikoo recently, Thanks to [@Anosher](https://www.youtub
 Very tired rn plus its already late [11:15pm] 🥶 
 <br>Will update memes here tomorrow check it out if you want for now watch the recommended yt videos maybe 😤
 
-###Update: Finally added the memes on 16/01/21 XD: [Here](https://kutt.it/trbweek28memes)
+###Update: Finally added the memes on 16/01/21 XD: [Here](http://bit.ly/trbweek28memes)
 ----
 
 Also I forgot to share this podcast that I did with [@Anosher](https://www.youtube.com/c/Anosher/videos) 2 weeks ago XD 

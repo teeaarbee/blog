@@ -226,7 +226,7 @@ https://www.instagram.com/p/CKBvjVgFJK5/
 https://www.instagram.com/p/CJ8jKCuFzjp/
 
 
-#More Memes from the week: [Here](https://kutt.it/trbweek29memes)
+#More Memes from the week: [Here](http://bit.ly/trbweek29memes)
 #Memes from the last week have been updated: [Here](https://blog.teeaarbee.com/archives/week-28#memesedits-from-the-last-week-)
 
 PS: I don’t think there will be any memes in next week’s blog so enjoy all you can by checking both the links above 😌 
