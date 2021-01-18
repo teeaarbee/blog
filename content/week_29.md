@@ -133,9 +133,9 @@ https://twitter.com/teeaarbee/status/1350423087586500609
 
 The next week is going to be very busy as I have said yes to a week long side hustle project.
 
-So I have decided to take my time off social media for the next week.
+So I have decided to **take my time off social media** for the next week.
 
-Gonna do a social media detox for a week and since I will have a lot of work. I don’t even have to think of ways to distract myself.
+Gonna do a **social media detox** for a week and since I will have a lot of work. I don’t even have to think of ways to distract myself.
 
 PS: Sorry wont be able to edit the music mashup this next week either because someone has become capitalism ka sikhaar 😞
 <br>Will prolly get it done in feb I guess.
