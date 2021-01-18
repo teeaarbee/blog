@@ -183,7 +183,7 @@ He has a nice [YT channel](https://www.youtube.com/c/warikoo/videos) and has rec
 The two videos that I edited featuring him : [This on habits](https://bit.ly/2XQE272) and This on [journaling](https://bit.ly/2M4qlyQ).
 
 ###Apps & Services 📱 
-> [Descript](https://kutt.it/ZfsYLw)
+>[Descript](https://kutt.it/ZfsYLw)
 
 I was given this tool at my work and we use it to generate subtitles for videos 
 <br>But it can do much more than that and is very beginner friendly.
