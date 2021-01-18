@@ -180,7 +180,7 @@ Ayy remember I shared one his tweet thread last week in my quote section and thi
 
 He has a nice [YT channel](https://www.youtube.com/c/warikoo/videos) and has recently switched to making videos on startup and finance so I recommend everyone to check out his channel if you are slightly into information consuming side of the spectrum. 
 
-The two videos that I edited featuring him : This on habits and This on journaling.
+The two videos that I edited featuring him : [This on habits](https://bit.ly/2XQE272) and This on [journaling](https://bit.ly/2M4qlyQ).
 
 ###Apps & Services 📱 
 > [Descript](https://kutt.it/ZfsYLw)
