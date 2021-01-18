@@ -29,7 +29,7 @@ max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
 XD
 -	**READING UPDATE**
 
-Bruh …. Didn’t ready anything 😔 
+Bruh …. Didn’t read anything 😔 
 
 -	**MEDITATION UPDATE**
 
