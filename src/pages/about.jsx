@@ -15,18 +15,18 @@ const About = () => {
             <h3>T R B</h3>
             {/* <p className="time">2019-12-11</p> */}
             <p className="markdowm-body">
-             Hi! I am TRB. I am known for uploading meme related videoclips on the web. 
-             <br></br>I am also a part time freelance Video Editor.
-             and now i guess a blogger too.
-                   <br></br>I have been a part of the underground meme community for over 2.5 years now and almost the same amount of time 
-                    in the field of video editing.
-                    <br></br><br></br>Last year I developed an intrest for books and the genre which i seem to be enjoying the most are Psychology, History
-                    and a bit of philosophy. Lately I have also developed a bit of interest in business.
-                    My plans for now are to just explore my interest and learn more about the world. 
-                    <br></br>
-                    I plan to share my weekly experince via my blogs here,
-                    I hope you find them interesting. 
-                    <br></br><br></br>Thank you! For taking your time to read about me now <a href="https://teeaarbee.com">Click Here</a> to visit my main website XD
+            Hi! I am TRB or teeaarbee, But I suppose you dont have any trouble figuring that out unless you are an old machine. 
+<br></br><br></br>I am best known for uploading what people call Meme videos on the Internet. 
+<br></br>Even though I dont make them much nowadays, the skill i learned from making those are helping me earn some money i.e., via video editing.
+
+<br></br><br></br>Things that I am interested in: Psychology, Neuroscience, Philosophy, Art, History, Business and the list goes on.
+<br></br>So yes! I am sort of a generalist or better trying to be one.
+<br></br><br></br>I don't know where I am going to end up in a few years but if you want to know the answer to that then you can read blogs.
+Which I publish every sunday. 
+<br></br>And maybe join My Discord/ Telegram Group or Email List and get notified everytime I post a blog. 
+<br></br><br></br>Links to everything can be found <a href="https://teeaarbee.com/#implinks">Here</a> 
+<br></br>Or at the very bottom of this page in the footer section.
+                    <br></br><br></br>Thank you! For taking your time to read about me.
             </p>
           </div>
         </section>
