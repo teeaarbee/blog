@@ -12,7 +12,7 @@ const Newsletter = () => {
         {/* <img src={trbPfp} className="user-avatar" alt="trbPfp" /> */}
         <section className="about-context">
           <div>
-            <h1>Search feature coming soon</h1>
+            <h1>Search feature coming soon, Till then you can google "teeaarbee" plus anything that you want to read about in this blog.</h1>
             <picture>
               <img src="https://i.postimg.cc/NjcrkjjG/Sherlock-Cheems.png" alt="" />
             </picture>
