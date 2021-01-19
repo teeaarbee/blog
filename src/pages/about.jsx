@@ -17,7 +17,7 @@ const About = () => {
             <p className="markdowm-body">
             Hi! I am TRB or teeaarbee, But I suppose you dont have any trouble figuring that out unless you are an old machine. 
 <br></br><br></br>I am best known for uploading what people call Meme videos on the Internet. 
-<br></br>Even though I dont make them much nowadays, the skill i learned from making those are helping me earn some money i.e., via video editing.
+<br></br>Even though I dont make them anymore, The skills that I learnt from making those are helping me earn some money i.e., via Video Editing.
 
 <br></br><br></br>Things that I am interested in: Psychology, Neuroscience, Philosophy, Art, History, Business and the list goes on.
 <br></br>So yes! I am sort of a generalist or better trying to be one.
