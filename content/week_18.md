@@ -107,8 +107,6 @@ https://youtu.be/8BVM_gRSc5U?list=LL
 
 https://www.instagram.com/p/CHBH8iHF1wW/
 
-https://www.instagram.com/p/CHA_2mxFC_D/
-
 https://www.instagram.com/p/CG8CGecFJhG/
 
 https://youtu.be/37wk04K0z4E?list=LL
