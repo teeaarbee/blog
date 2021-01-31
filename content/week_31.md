@@ -43,6 +43,10 @@ Ah yes I think I have played all the songs from the known chords in the app, now
 <img src="https://i.imgur.com/VpYRZdU.png" alt="keyboard31" style="
 max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
 
+Btw here's me trying to bring Mj back to life 👻
+
+https://youtu.be/54LRIIfKYwM
+
 -	**SLEEP UPDATE**
 Not very stable like last week, but still tried my best to fix it on days when it was possible.
 
@@ -118,9 +122,9 @@ Not sponsored ofc but yes it’s an affiliate link
 ###Songs 🎶
 
 <iframe src="https://open.spotify.com/embed/track/21hMVbjurJsnekUoriKMFb" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
+<br><br>
 <iframe src="https://open.spotify.com/embed/track/1JLn8RhQzHz3qDqsChcmBl" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
+<br><br>
 <iframe src="https://open.spotify.com/embed/track/5arambGXhSW6TZUR9L0tSw" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ###Podcast 🎙
