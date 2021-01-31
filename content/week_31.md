@@ -16,7 +16,7 @@ Had comparatively less work this week @ work but regardless I kept myself busy w
 -	**WRITING UPDATE**
 Wasn’t as smooth as last week idk why, I might have skipped a day or two not v sure
 
-<img src="link" alt="caption" style="
+<img src="https://i.imgur.com/eANJCTT.png" alt="wr31" style="
 max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
 
 -	**READING UPDATE**
@@ -25,14 +25,14 @@ Despite not reading a lot at the start of the week I was able to finish the book
 -	**MEDITATION UPDATE**
 Slacked behind, idk why lately I haven’t been able to fully focus/emerse myself during meditation.
 
-<img src="link" alt="caption" style="
+<img src="https://i.imgur.com/udRD8nS.png" alt="med31" style="
 max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
 
 I need to slightly increase my duration I think.
 -	**FITNESS UPDATE**
 Did not run a lot but I am quite sure I did run 15km in total, the app kinda glitched on the 3rd day because my phone was low on charge.
 
-<img src="link" alt="caption" style="
+<img src="https://i.imgur.com/iDHHIyR.png" alt="run31" style="
 max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
 
 I def. need to improve my consistency of running.
@@ -40,7 +40,7 @@ I def. need to improve my consistency of running.
 -	**MUSIC UPDATE**
 Ah yes I think I have played all the songs from the known chords in the app, now from tomorrow on I ll have to move on back with playing keys and say goodbye to chords for the time being.
 
-<img src="link" alt="caption" style="
+<img src="https://i.imgur.com/VpYRZdU.png" alt="keyboard31" style="
 max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
 
 -	**SLEEP UPDATE**

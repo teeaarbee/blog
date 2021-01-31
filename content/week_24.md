@@ -173,8 +173,6 @@ It was very nice to listen to it though, yuval like always repeated some of his 
 
 https://www.instagram.com/p/CIhf2ZRp-zt/
 
-https://www.instagram.com/p/CIphkrLFifp/
-
 https://www.instagram.com/p/CItqMgkFUX8/
 
 
