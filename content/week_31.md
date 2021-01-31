@@ -86,7 +86,10 @@ I did not do anything for the blogs this week ☹ Maybe next week I ll do some c
 
 ##My Favourites from the Week 
 ###Blog/Articles 📑
+
 [5 Metaskills That Will Make You Superhuman](https://bit.ly/2YubqR8)
+
+[The Scary Future Of Instagram](https://bit.ly/3j25b0q)
 
 ###VIDEOS 📺
 https://youtu.be/qSpuilb8vJQ?list=LL
