@@ -7,15 +7,15 @@ tags:
   - Weekly Blogs 
   - Recommendations 
 ---
-This week was a bit of downer. 
+This week was a bit of a downer. 
 
-Not only was I not able to complete my previous week’s goal, but also failed to keep up with existing habits and also on top of that performed quite poorly at work.
+Not only was I not able to complete my previous week’s goal, but also **failed to keep up with existing habits** and also on top of that performed quite poorly at work.
 
 Idk why all these happened one of the reason behind this can be overwork that I did in the past week. 
 
 Like I usually take a break after editing big projects / lot of videos  but lately I haven’t gotten any rest from work, I have been working non-stop for almost 25+ days and that has sort of started taking a toll on me.
 
-Either way I am going to use today’s blog to vent it all out so y’all are in for a wild ride XD
+Either way I am going to use today’s blog to **vent it all out** so y’all are in for a wild ride XD
 
 ## Personal Highlights 
 So like I said this week was pretty bad in terms of me following my usual habits.
@@ -49,7 +49,7 @@ And now this one in an e-reader.
 
 All these info is quite useless idk why I decided to share all of these xddd
 
-Anyway I am happy that reading is back and its here to stay because I love reading on my kindle it feels like paper and is more awesome when I read it under daylight.
+Anyway I am happy that reading is back and its here to stay because I love reading on my kindle it **feels like looking at paper** and is more awesome when I read it under daylight.
 
 -	**WRITING UPDATE**
 
@@ -124,9 +124,9 @@ People who sell fake courses on youtube by fake I don’t mean actually fake but
 
 The same can be seen with a lot of dead channels like the channel might be dying but the person has very good skills of conveying his or her message or
 
-The way their video is edited its much more cleaner and professional looking.
+The way their video is edited it's very clean and professional looking.
 
-With that I concluded that relevance might die over time but the skill acquired does not.
+With that I concluded that **relevance might die over time but the skill acquired does not**.
 
 And those same people can use those skills along with a few new skills to kickstart a diff project or to get a job or some shit like that.
 
@@ -190,8 +190,11 @@ But I recently watched / listened to this podcast and came to know that he is al
 ###Apps 📱 
 
 > [Soundswitch](https://soundswitch.aaflalo.me/)
+
 > [Ditto](https://ditto-cp.sourceforge.io/)
+
 > [File Converter](https://file-converter.org/)
+
 
 Installed these 3 softwares on my pc today after watching this video
 
