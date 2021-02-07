@@ -70,7 +70,7 @@ Kids should not be taught coding at a very young age.
 So I bought dogecoins getting all excited and I like other rwords expected it to rise to 1$ ahahahah
 <br>But obviously it didn’t and so I lost a bit of my money.
 
-https://www.instagram.com/p/CKqZvXHFeoj/
+<!-- https://www.instagram.com/p/CKqZvXHFeoj/ -->
 
 At the time of writing this I have sold all my dogecoins and free bitcoins that I got in the app from referring it to sunraybee, Anshuman Sharma, Aditi and a few other meme community peeps.
 
