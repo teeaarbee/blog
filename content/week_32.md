@@ -185,7 +185,7 @@ I have been listening to his music for over 2 years now. Thanks to smmn (one man
 
 https://youtu.be/sRBRUAHHDeA
 
-But I recently watched / listened to this podcast and came to know that he is almost of my age and the guy hosting the podcast is a lot younger to me damn idk it just felt like … idk
+But I recently watched / listened to this podcast and came to know that he is almost of my age and the guy hosting the podcast is a lot younger to me damn idk it just felt like …. idk
 
 ###Apps 📱 
 
