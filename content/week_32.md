@@ -200,7 +200,7 @@ Installed these 3 softwares on my pc today after watching this video
 
 https://youtu.be/pOmkEzgU9ik?list=LL
 
-Recommend yall to check this out.
+Recommend y'all to check this out.
 
 ###Songs 🎶
 
