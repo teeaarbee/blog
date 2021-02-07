@@ -219,8 +219,7 @@ This was I think the first matt dievela podcast that I listened to and I like hi
 
 https://twitter.com/visualizevalue/status/1357705406773141509
 
-https://twitter.com/visualizevalue/status/1357705406773141509
-
+https://twitter.com/ShaneAParrish/status/1356979505596932098
 
 ###Top Memes/Edits from the last week 🐒
 
