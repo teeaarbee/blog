@@ -242,7 +242,7 @@ So idk feel quite sad today esp after seeing my week long bad performance conden
 
 Idk this week was really sluggish and its Monday tomorrow, sort of feels like school 😶 which I don’t quite like. 
 
-Anyway I wanted to do a bit more randirona but now I don’t like doing it so I guess that will be it for today see you all again next week oh and also
+Anyway I wanted to do a bit more *randirona* but now I don’t like doing it so I guess that will be it for today see you all again next week oh and also
 
 I am getting a **new phone** tomorrow 😏 
 
