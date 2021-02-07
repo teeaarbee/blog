@@ -196,7 +196,7 @@ But I recently watched / listened to this podcast and came to know that he is al
 > [File Converter](https://file-converter.org/)
 
 
-Installed these 3 softwares on my pc today after watching this video
+Installed these 3 softwares on my pc today after watching this video:
 
 https://youtu.be/pOmkEzgU9ik?list=LL
 
