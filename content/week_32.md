@@ -236,7 +236,7 @@ Also obviously didn’t do even a single pushup this week 😭
 
 ----
 
-Ok gonna do some additional *rr* before I call it a day,
+Ok gonna do some additional *rr* before I call it a day
 
 So idk feel quite sad today esp after seeing my week long bad performance condensed in number today.
 
