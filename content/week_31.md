@@ -50,6 +50,9 @@ https://youtu.be/54LRIIfKYwM
 -	**SLEEP UPDATE**
 Not very stable like last week, but still tried my best to fix it on days when it was possible.
 
+<img src="https://i.imgur.com/9BVPmis.png" alt="sleep31" style="
+max-width: 600px;width: 100%; height: auto; display: block; margin: 10px 0;" >
+
 Also found out that reading book before bed somehow leads to better sleep.
 
 Which is a great news for me as I getting my first ever kindle tomorrow 🤩
@@ -67,7 +70,7 @@ Kids should not be taught coding at a very young age.
 So I bought dogecoins getting all excited and I like other rwords expected it to rise to 1$ ahahahah
 <br>But obviously it didn’t and so I lost a bit of my money.
 
-
+https://www.instagram.com/p/CKqZvXHFeoj/
 
 At the time of writing this I have sold all my dogecoins and free bitcoins that I got in the app from referring it to sunraybee, Anshuman Sharma, Aditi and a few other meme community peeps.
 
